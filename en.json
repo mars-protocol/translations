@@ -249,11 +249,11 @@
   "with": "With",
   "yield": "Yield",
   "youAreGettingCloserToGettingLiquidated": "You are getting closer to getting liquidated. Deposit more to reduce risk. Learn more <1>here</1>",
-  "youDontHaveAnyActiveStrategy": "You don’t have any active strategies yet",
-  "youDontHaveAnyAssetsInYourWallet": "You don’t have any Assets in your wallet So Far",
-  "youDontHaveBorrowedOrDepositedAnyAsset": "You don’t have Borrowed or deposited any asset so far.",
-  "youDontHaveTheRequiredAssets": "You don’t have the required assets in your wallet yet",
+  "youDontHaveAnyActiveStrategy": "You don't have any active strategies yet",
+  "youDontHaveAnyAssetsInYourWallet": "You don't have any Assets in your wallet So Far",
+  "youDontHaveBorrowedOrDepositedAnyAsset": "You don't have Borrowed or deposited any asset so far.",
+  "youDontHaveTheRequiredAssets": "You don't have the required assets in your wallet yet",
   "yourAddress": "Your address",
   "yourStakedMarsAreReadyToUnstake": "Your staked mars are ready to unstake",
-  "youveArrivedOnMars": "You’ve arrived on Mars, the Money Market of the Terra blockchain."
+  "youveArrivedOnMars": "You've arrived on Mars, the Money Market of the Terra blockchain."
 }
