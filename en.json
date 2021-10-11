@@ -124,7 +124,7 @@
   "inWalletAmountSymbol": "In Wallet: {{amount}} {{symbol}}",
   "joinUs": "Join Us",
   "leaderboard": "Leaderboard (Council)",
-  "lendAndBorrowMoney": "Lend and Borrow Money on the Terra Blockchain",
+  "lendAndBorrowMoney": "Lend and borrow tokens on the Terra blockchain",
   "leverage": "Leverage",
   "linkToDiscussion": "Link to discussion",
   "liqPrice": "Liq. Price",
@@ -301,6 +301,6 @@
   "yourPositionWillBeClosed": "Your Position will be closed",
   "yourPotentialMarsReward": "Your potential MARS Reward",
   "yourStakedMarsAreReadyToUnstake": "Your staked mars are ready to unstake",
-  "youveArrivedOnMars": "You've arrived on Mars, the Money Market of the Terra blockchain.",
+  "youveArrivedOnMars": "You've arrived on Mars, Terra blockchain's credit protocol.",
   "youWillReceive": "You will receive"
 }
