@@ -289,7 +289,7 @@
   "redbankMarketsBorrowedNotConnectedTooltip": "Deposits can be used as collateral to borrow from the Red Bank at the rates displayed. Rates change based on market conditions.",
   "redbankPortfolioTooltip": "You can borrow up to the red line in the Borrowing Capacity bar graph. If you fill the entire Borrowing Capacity bar, you’re in danger of liquidation.",
   "redBankRewards": "Red Bank Rewards",
-  "redBankTooltip": "This window displays your Red Bank deposits, borrowings and earnings. You can borrow up to 80% of your borrowing capacity. If you hit 100% of your borrowing capacity, your account deposits could be liquidated to repay your debts.",
+  "redBankTooltip": "Your max LTV is {{collateralLimit}} or {{collateralLimitValue}} UST based on your current collateral makeup. You are at {{currentPercentage}} of your liquidation threshold. If you reach 100%, you are at immediate risk of liquidation.",
   "restartCooldown": "Start New Cooldown",
   "safetyFund": "Insurance Fund",
   "safetyFundTooltip": "The amount of UST held by the Martian Council Safety fund to cover any shortfall events",
