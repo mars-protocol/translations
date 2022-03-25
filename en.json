@@ -229,14 +229,6 @@
     "showBreakdown": "Show Breakdown",
     "showCooldown": "Check Cooldown",
     "showDetails": "Show Details",
-    "strategy": {
-      "ancBullStrategy": "ANC-UST",
-      "ancBullStrategyDescription": "ANC-UST Bull Leveraged Yield Farm (Max 2x)",
-      "lunaBullStrategy": "LUNA-UST",
-      "lunaBullStrategyDescription": "LUNA-UST Bull Leveraged Yield Farm (Max 2x)",
-      "mirBullStrategy": "MIR-UST",
-      "mirBullStrategyDescription": "MIR-UST Bull Leveraged Yield Farm (Max 2x)"
-    },
     "supply": "Supply",
     "totalBorrowed": "Total borrowed",
     "totalRewardsApy": "Total Base APY",
@@ -398,5 +390,13 @@
     "youAreGettingCloserToGettingLiquidated": "You are getting closer to getting liquidated. Deposit more to reduce risk. <1>Learn more.</1>",
     "youDontHaveAnyAssetsInYourWallet": "You don't have any Assets in your wallet So Far",
     "youDontHaveBorrowedOrDepositedAnyAsset": "You don't have any borrowed assets so far."
+  },
+  "strategy": {
+    "ancBullStrategy": "ANC-UST",
+    "ancBullStrategyDescription": "ANC-UST Bull Leveraged Yield Farm (Max 2x)",
+    "lunaBullStrategy": "LUNA-UST",
+    "lunaBullStrategyDescription": "LUNA-UST Bull Leveraged Yield Farm (Max 2x)",
+    "mirBullStrategy": "MIR-UST",
+    "mirBullStrategyDescription": "MIR-UST Bull Leveraged Yield Farm (Max 2x)"
   }
 }
