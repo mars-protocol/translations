@@ -190,6 +190,7 @@
     "availableStrategies": "Available Strategies",
     "availableStrategiesTooltip": "Click 'Farm' to initiate a new position on the Fields of Mars.",
     "baseApy": "Base APY",
+    "borrowRateApr": "Borrow APR",
     "breakdown": "Breakdown",
     "buyAssetsToFarm": "Buy assets first to be able to farm. <1>Learn how</1>",
     "clickOnFarm": "Click on Farm below to start. <1>Learn how</1>",
