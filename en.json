@@ -61,6 +61,7 @@
     "transactionSuccessful": "Transaction Successful",
     "txHash": "Tx Hash",
     "txPending": "Tx Pending",
+    "used": "used",
     "viewOnExtraterrestrialFinder": "View on Extraterrestrial Finder",
     "waitingForReceipt": "Waiting for receipt...",
     "wallet": "Your Wallet",
