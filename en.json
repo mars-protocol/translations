@@ -170,6 +170,7 @@
     "errorNoStratgy": "Uh oh, operation failed",
     "errorProposal": "Uh oh, operation failed",
     "errorClaim": "Uh oh, operation failed",
+    "errorMarsBalance": "You do not have enough MARS in your wallet to submit a proposal.",
     "errorStake": "Uh oh, operation failed",
     "errorVote": "Uh oh, operation failed",
     "errorRedbankNoLiquidity": "The amount you’re trying to borrow exceeds the amount available for borrowing from the Red Bank. Please try a smaller amount.",
