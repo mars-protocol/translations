@@ -149,7 +149,7 @@
     "totalProposals": "Total Proposals",
     "totalProposalsTooltip": "The total number of proposals to date that have been submitted in the Martian Council",
     "totalStaked": "Total Staked",
-    "totalStakedTooltip": "This is the total Mars staked for all users in the Martian Council",
+    "totalStakedTooltip": "This is the total MARS staked for all users in the Martian Council. {{vestedMars}} MARS tokens are vesting with Mars contributors and don't receive staking rewards, the remaining {{mars}} have been staked by Martian councillors",
     "unstaked": "Unstaked",
     "unstakeMars": "Unstake Mars",
     "unstakeNow": "Unstake Now",
