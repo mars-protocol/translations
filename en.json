@@ -119,7 +119,7 @@
     "myAssetBalance": "My Balance: {{assetAmount}} {{assetSymbol}}",
     "myStakeableMars": "My Stakeable Mars",
     "myStakedMars": "My Staked Mars",
-    "myVestedMars": "my vested mars",
+    "myVestedMars": "My Vested Mars",
     "myVote": "My Vote",
     "newProposal": "New Proposal",
     "newProposalTooltip": "Every MARS proposal requires a deposit of 100,000 MARS. At minimum, you must enter a title, description and link for your proposal. Calls to Execute are optional.",
@@ -344,7 +344,7 @@
     "mission61": "6.1 Decode the Mars token",
     "mission62": "6.2 Enter the Citadel",
     "missions": "Missions",
-    "onMarsThereAreNoLimits": "On Mars, there are no limits. Anyone, anywhere in the galaxy can lend or borrow crypto.<br /><br />Built atop <strong>Terra</strong>, Mars will be the first credit protocol to utilize dynamic rates that canadapt to changing market conditions.<br /><br />It will be the foundation for a new constellation of not just financial products but of governance and collaboration too.",
+    "onMarsThereAreNoLimits": "On Mars, there are no limits. Anyone, anywhere in the galaxy can lend or borrow crypto.<br /><br />Built atop <strong>Terra</strong>, Mars will be the first credit protocol to utilize dynamic rates that can adapt to changing market conditions.<br /><br />It will be the foundation for a new constellation of not just financial products but of governance and collaboration too.",
     "theRedBankIsTheLifeblood": "The Red Bank is the lifeblood of Mars. <strong>A fully automated lending protocol</strong>, it runs on computer code 24/7 without human (or Martian) intervention.<br /><br />It has the potential to accept any form of digital value for deposits and loans, from cryptos to synthetic stocks and beyond.",
     "ticketToMars": "Ticket to <strong>mars</strong>",
     "transformTheFutureOfBanking": " Transform the<br /><strong>future of banking</strong>",
@@ -420,7 +420,7 @@
     "redBankTooltip": "Your max LTV is {{collateralLimit}} or {{collateralLimitValue}} UST based on your current collateral makeup. You are at {{currentPercentage}} of your liquidation threshold. If you reach 100%, you are at immediate risk of liquidation.",
     "welcomeToTheRedBank": "Welcome to the Red Bank",
     "youAreGettingCloserToGettingLiquidated": "You are getting closer to getting liquidated. Deposit more to reduce risk. <1>Learn more.</1>",
-    "youDontHaveAnyAssetsInYourWallet": "You don't have any Assets in your wallet So Far",
+    "youDontHaveAnyAssetsInYourWallet": "You don't have any Assets in your wallet so far.",
     "youDontHaveBorrowedOrDepositedAnyAsset": "You don't have any borrowed assets so far."
   },
   "strategy": {
