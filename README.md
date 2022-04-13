@@ -13,6 +13,10 @@ This repository contains all language files used in the [Mars dApp](https://app.
 
 ## Guidelines
 
+### ISO 639-1 codes
+
+If you are creating a new translation file, please look up the [ISO 639-1 code of your native language](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "ISO 639-1 code of your native language") and create a new file with it.
+
 ### Curly Brackets
 
 Whenever you find a word wrapped in curly brackets e.g.: `{{amount}}` **do not** translate them. Those are placeholders for variables passed to the translation string.
