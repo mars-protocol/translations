@@ -57,6 +57,7 @@
     "success": "success",
     "swap": "Swap",
     "theMarkets": "The Markets",
+    "tvl": "TVL",
     "txFee": "Tx Fee",
     "txTooltip": "This window displays the status of your transaction.",
     "transactionFee": "Transaction Fee",
