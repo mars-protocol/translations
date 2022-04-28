@@ -210,6 +210,7 @@
     "current": "Current",
     "currentPosition": "Current Position",
     "currentValue": "Current Net Value",
+    "debt": "Debt",
     "farm": "Farm",
     "fieldsBreakdownTooltip": "To avoid liquidation, ensure your position stays above the listed liquidation threshold and your primary asset stays above the liquidation price.",
     "fieldsBreakdownCurrentPositionTooltip": "Your current position and liquidation threshold.",
@@ -430,6 +431,8 @@
   "strategy": {
     "ancBullStrategy": "ANC-UST",
     "ancBullStrategyDescription": "ANC-UST Bull Leveraged Yield Farm (Max 2x)",
+    "apolloAncBullStrategy": "ANC-UST LYF",
+    "apolloAncBullStrategyDescription": "LYF ANC-UST with Apollo (max leverage is 2.5x)",
     "lunaBullStrategy": "LUNA-UST",
     "lunaBullStrategyDescription": "LUNA-UST Bull Leveraged Yield Farm (Max 2x)",
     "mirBullStrategy": "MIR-UST",

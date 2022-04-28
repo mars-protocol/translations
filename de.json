@@ -210,6 +210,7 @@
     "current": "Aktuell",
     "currentPosition": "Aktuelle Position",
     "currentValue": "Aktueller Wert (netto)",
+    "debt": "Kredit",
     "farm": "Farmen",
     "fieldsBreakdownTooltip": "Um zu vermeiden, dass deine Position liquidiert wird, stelle sicher, dass deine Position über dem Liquidierungs-Limit und der Preis des primären Assets über dem Liquidierungspreis bleibt.",
     "fieldsBreakdownCurrentPositionTooltip": "Deine aktuelle Position und Liquidierungs-Limit.",
@@ -430,6 +431,8 @@
   "strategy": {
     "ancBullStrategy": "ANC-UST",
     "ancBullStrategyDescription": "ANC-UST Bull Farm mit Hebelwirkung (Max 2x)",
+    "apolloAncBullStrategy": "ANC-UST LYF",
+    "apolloAncBullStrategyDescription": "LYF ANC-UST über Apollo mit Hebelwirking (Max 2.5x)",
     "lunaBullStrategy": "LUNA-UST",
     "lunaBullStrategyDescription": "LUNA-UST Bull Farm mit Hebelwirkung ((Max 2x)",
     "mirBullStrategy": "MIR-UST",
