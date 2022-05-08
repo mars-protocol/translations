@@ -410,6 +410,7 @@
     "myBorrowings": "My Borrowings",
     "myDeposits": "My Deposits",
     "myDepositBalance": "My Deposit Balance",
+    "noFundsForRepay": "You do not have any {{symbol}} in your wallet to repay the debt.",
     "notBorrowedYet": "Not borrowed yet",
     "readMoreAboutMarsOrLearnHowToUseTheRedBank": "<0>Read more about Mars</0> or <2>learn how to use the Red Bank.</2>",
     "redbankActionBorrowTooltip": "Enter the amount you would like to borrow. You can see how this transaction will impact any existing borrowing balance in the New Borrow Balance panel.",
