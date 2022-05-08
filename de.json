@@ -410,6 +410,7 @@
     "myBorrowings": "Meine Kredite",
     "myDeposits": "Meine Sicherheiten",
     "myDepositBalance": "Gesamtbetrag meiner Sicherheiten",
+    "noFundsForRepay": "You do not have any {{symbol}} in your wallet to repay the debt.",
     "notBorrowedYet": "Bisher noch kein Kredit aufgenommen",
     "readMoreAboutMarsOrLearnHowToUseTheRedBank": "<0>Lies mehr über das Mars Protokol</0> oder <2>lerne, wie du die Red Bank nutzen kannst.</2>",
     "redbankActionBorrowTooltip": "Gib den Betrag an, den du leihen möchtest. du wirst sehen, wie die Transaction deinen aktuellen Kreditbetrag beeinflusst.",
