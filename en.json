@@ -253,7 +253,7 @@
     "profitLoss": "Estimated Profit / Loss",
     "protocolApy": "{{protocol}} Rewards APY",
     "primaryAssetNeedsToBeSupplied": "Primary asset needs to be supplied. Only UST can be borrowed.",
-    "safetyFund": "Insurance Fund",
+    "safetyFund": "Safety Fund",
     "safetyFundTooltip": "The amount of UST held by the Martian Council Safety fund to cover any shortfall events",
     "settlement": "Settlement",
     "showBreakdown": "Show Breakdown",
