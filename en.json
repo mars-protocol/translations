@@ -301,7 +301,9 @@
     "support": "Support",
     "termsOfService": "Terms of service",
     "theFieldsOfMars": "The Fields of Mars",
-    "theRedBank": "The Red Bank"
+    "theRedBank": "The Red Bank",
+    "walletReset": "Retry the Connection",
+    "walletResetText": "If nothing shows up in your wallet try to connect again, by clicking on the button below. Refresh the page if the problem persists."
   },
   "incentives": {
     "airdrop": "Airdrop",
