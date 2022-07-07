@@ -285,6 +285,8 @@
     "followUs": "Follow us",
     "forum": "Forum",
     "governance": "Governance",
+    "keplrBrowserExtension": "Keplr browser extension",
+
     "litepaper": "Litepaper",
     "loading": "Loading",
     "max": "Max",
@@ -302,6 +304,8 @@
     "termsOfService": "Terms of service",
     "theFieldsOfMars": "The Fields of Mars",
     "theRedBank": "The Red Bank",
+    "walletConnect": "Wallet Connect",
+    "walletConnectDescription": "Keplr mobile WalletConnect",
     "walletReset": "Retry the Connection",
     "walletResetText": "If nothing shows up in your wallet try to connect again, by clicking on the button below. Refresh the page if the problem persists."
   },
