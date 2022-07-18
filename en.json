@@ -2,13 +2,21 @@
   "claim": {
     "aNewDawn": "A new dawn has come",
     "claimYourMarsTokens": "Claim your MARS tokens now",
+    "congratulaitions": "Congratulations!",
     "connectKeplr": "Connect Keplr Wallet",
-    "connectTerra": "Connect A Terra Wallet",
+    "connectTerra": "Connect a Terra Wallet",
+    "connectToTerra": "Connect your Terra Station wallet where you held MARS on Terra Classic to continue the token claim process.",
+    "ifYouNeedAssistance": "If you need assistance create a support ticket in the <1>MARS Discord</1>",
     "marsTokenHoldersOnTerraClassic": "MARS token holders on Terra Classic can now claim MARS tokens directly on Mars Hub and help shape the future of the galaxy's most powerful borrowing and lending protocol.",
+    "noAirdropAvailable": "No Airdrop available",
+    "nowConnectToKeplr": "Now, connect your Keplr Wallet as well to initiate your claim.",
     "onlyEnabledForDesktop": "The MARS claim process is only enabled for desktop.",
     "originallyLaunchedOnTerra": "Originally launched on Terra Classic, Mission Control has deployed Mars Hub: a new blockchain in the Cosmos galaxy.",
+    "sorry": "Sorry!",
+    "thisTerraClassicAddressIsNotEligible": "This Terra Classic address is not eligible for the MARS airdrop, please connect a different address.",
     "toInitiateYourClaim": "To initiate your claim, you need to connect both Terra Station as well as Keplr Wallet then follow the prompts from Mission Control.",
-    "unsureIfYouQualify": "Unsure if you qualify? Check out the Mars airdrop <1>FAQ's</1>"
+    "unsureIfYouQualify": "Unsure if you qualify? Check out the Mars airdrop <1>FAQ's</1>",
+    "youHaveMarsToClaim": "You have {{amount}} MARS to claim"
   },
   "common": {
     "active": "Active",
