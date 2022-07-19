@@ -1,5 +1,6 @@
 {
   "claim": {
+    "addMarsChainToKeplr": "1. Add MARS chain to Keplr wallet",
     "aNewDawn": "A new dawn has come",
     "claimYourMarsTokens": "Claim your MARS tokens now",
     "congratulaitions": "Congratulations!",
@@ -7,6 +8,7 @@
     "connectTerra": "Connect a Terra Wallet",
     "connectToTerra": "Connect your Terra Station wallet where you held MARS on Terra Classic to continue the token claim process.",
     "ifYouNeedAssistance": "If you need assistance create a support ticket in the <1>MARS Discord</1>",
+    "marsHubBlockchainUsesTheKeplrWallet": "MARS Hub blockchain uses the Keplr wallet to manage accounts. To claim the airdrop, click the button below to add MARS Hub to Keplr, and create an account with an address that starts with the 'MARS' prefix.",
     "marsTokenHoldersOnTerraClassic": "MARS token holders on Terra Classic can now claim MARS tokens directly on Mars Hub and help shape the future of the galaxy's most powerful borrowing and lending protocol.",
     "noAirdropAvailable": "No Airdrop available",
     "nowConnectToKeplr": "Now, connect your Keplr Wallet as well to initiate your claim.",
