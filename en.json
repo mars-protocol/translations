@@ -5,6 +5,7 @@
     "congratulaitions": "Congratulations!",
     "connectKeplr": "Connect Keplr Wallet",
     "connectTerra": "Connect a Terra Wallet",
+    "connectToClassic": "Connect to the “Classic” Network, to proceed",
     "connectToTerra": "Connect your Terra Station wallet where you held MARS on Terra Classic to continue the token claim process.",
     "iAmTheOwnerOfTerraAccount": "I am the owner of Terra account “{{terraAccount}}”; I wish to receive my airdrop of {{amount}} MARS at MARS account “{{marsAccount}}”",
     "ifYouNeedAssistance": "If you need assistance create a support ticket in the <1>MARS Discord</1>",
@@ -19,8 +20,10 @@
     "proveOwnershipOfTerra": "1. Prove ownership of Terra Account",
     "sorry": "Sorry!",
     "thisTerraClassicAddressIsNotEligible": "This Terra Classic address is not eligible for the MARS airdrop, please connect a different address.",
+    "toProceedPleaseSelectClassic": "To proceed with the token transfer, please connect to Terra Classic.",
     "toInitiateYourClaim": "To initiate your claim, you need to connect both Terra Station as well as Keplr Wallet then follow the prompts from Mission Control.",
     "unsureIfYouQualify": "Unsure if you qualify? Check out the Mars airdrop <1>FAQ's</1>",
+    "wrongNetwork": "Wrong Terra network",
     "youHaveMarsToClaim": "You have {{amount}} MARS to claim"
   },
   "common": {
