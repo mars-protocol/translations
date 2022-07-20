@@ -5,7 +5,7 @@
     "congratulaitions": "Congratulations!",
     "connectKeplr": "Connect Keplr Wallet",
     "connectTerra": "Connect a Terra Wallet",
-    "connectToClassic": "Connect to the “Classic” Network, to proceed",
+    "connectToClassic": "Connect to the “Classic” network",
     "connectToTerra": "Connect your Terra Station wallet where you held MARS on Terra Classic to continue the token claim process.",
     "iAmTheOwnerOfTerraAccount": "I am the owner of Terra account “{{terraAccount}}”; I wish to receive my airdrop of {{amount}} MARS at MARS account “{{marsAccount}}”",
     "ifYouNeedAssistance": "If you need assistance create a support ticket in the <1>MARS Discord</1>",
