@@ -19,6 +19,7 @@
     "onlyEnabledForDesktop": "The MARS claim process is only enabled for desktop.",
     "originallyLaunchedOnTerra": "Originally launched on Terra Classic, Mission Control has deployed Mars Hub: a new blockchain in the Cosmos galaxy.",
     "proveOwnershipOfTerra": "1. Prove ownership of Terra Account",
+    "reviewYourTransaction": "Review your transcations at <1>Block Explorer</1> or learn more about Mars Hub in the <3>Doc's</3>",
     "sorry": "Sorry!",
     "submitTheTransactionOnMarsHub": "Submit the transaction on Mars Hub chain to execute your claim.",
     "thereWasAnUnexpectedErrorWithYourClaim": "There was an unexpected error with your claim. Please try again or create a support ticket that includes your wallet address and as much information as possible in the <1>MARS Discord</1>",
@@ -27,7 +28,9 @@
     "toInitiateYourClaim": "To initiate your claim, you need to connect both Terra Station as well as Keplr Wallet then follow the prompts from Mission Control.",
     "unsureIfYouQualify": "Unsure if you qualify? Check out the Mars airdrop <1>FAQ's</1>",
     "wrongNetwork": "Wrong Terra network",
-    "youHaveMarsToClaim": "You have {{amount}} MARS to claim"
+    "youHaveClaimed": "You have claimed {{amount}} MARS",
+    "youHaveMarsToClaim": "You have {{amount}} MARS to claim",
+    "yourMarsTokensShouldAutomaticallyAppear": "Your MARS tokens should automatically appear in Keplr. Stake them now to ascend to the Martian Council."
   },
   "common": {
     "active": "Active",
