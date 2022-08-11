@@ -44,6 +44,7 @@
     "borrowingCapacity": "Borrowing Capacity",
     "buy": "Buy",
     "by": "by",
+    "chainId": "Chain ID",
     "close": "Close",
     "closePortfolio": "Close Portfolio",
     "completed": "Completed",
@@ -93,6 +94,7 @@
     "succeeded": "Succeeded",
     "success": "success",
     "swap": "Swap",
+    "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
     "tvl": "TVL",
     "txFee": "Tx Fee",
@@ -231,6 +233,14 @@
     "serverOfflineTitle": "Unable to reach a server",
     "serverOfflineBody": "A server seems to be down at the moment. Please try again later.",
     "youHaveAFailingNetworkRequest": "You need a working internet connection to interact with the application. Please make sure you are connected."
+  },
+  "faucet": {
+    "connectYourKeplrWallet": "Connect your Keplr Wallet add MARS chain and start using the faucet to get MARS Testnet tokens.",
+    "marsTestnetFaucet": "Mars testnet faucet",
+    "tooltip": "Mars Hub testnet Faucet is a client tool that allows anyone to easily request a nominal amount of Terra or Luna assets for testing purposes.",
+    "useTheFaucet": "Use this faucet to get MARS Testnet tokens. Please use your tokens sparingly as the number of available tokens is limited.",
+    "sendMeTokens": "Send me Tokens",
+    "welcomeMartian": "Welcome, Martian!"
   },
   "fields": {
     "after": "After Update",
