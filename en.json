@@ -235,11 +235,18 @@
     "youHaveAFailingNetworkRequest": "You need a working internet connection to interact with the application. Please make sure you are connected."
   },
   "faucet": {
+    "anErrorOccurred": "An error occurred: {{error}}",
+    "cannotConnect": "Cannot connect to server",
     "connectYourKeplrWallet": "Connect your Keplr Wallet add MARS chain and start using the faucet to get MARS Testnet tokens.",
+    "goToExplorer": "Go to explorer",
+    "invalidRequest": "Invalid request",
     "marsTestnetFaucet": "Mars testnet faucet",
     "tooltip": "Mars Hub testnet Faucet is a client tool that allows anyone to easily request a nominal amount of Terra or Luna assets for testing purposes.",
+    "tooManyRequests": "Too many requests",
     "useTheFaucet": "Use this faucet to get MARS Testnet tokens. Please use your tokens sparingly as the number of available tokens is limited.",
     "sendMeTokens": "Send me Tokens",
+    "successfullySent": "Successfully sent {{amount}} MARS testnet tokens to {{address}}",
+    "unavailable": "Faucet service temporary unavailable",
     "welcomeMartian": "Welcome, Martian!"
   },
   "fields": {
