@@ -82,6 +82,7 @@
     "overview": "Overview",
     "portfolio": "Portfolio",
     "prioritizeXdefiWallet": "Prioritize XDEFI in the wallet to connect",
+    "received": "Received",
     "refresh": "Refresh",
     "repay": "Repay",
     "signMessage": "Sign Message",
@@ -99,6 +100,7 @@
     "tvl": "TVL",
     "txFee": "Tx Fee",
     "txTooltip": "This window displays the status of your transaction.",
+    "transactionFailed": "Transaction Failed",
     "transactionFee": "Transaction Fee",
     "transactionSuccessful": "Transaction Successful",
     "txHash": "Tx Hash",
@@ -246,6 +248,7 @@
     "useTheFaucet": "Use this faucet to get MARS Testnet tokens. Please use your tokens sparingly as the number of available tokens is limited.",
     "sendMeTokens": "Send me Tokens",
     "successfullySent": "Successfully sent {{amount}} MARS testnet tokens to {{address}}",
+    "tokensClaimed": "Tokens claimed for MARS testnet",
     "unavailable": "Faucet service temporary unavailable",
     "welcomeMartian": "Welcome, Martian!"
   },
