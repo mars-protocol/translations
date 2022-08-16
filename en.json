@@ -111,7 +111,7 @@
     "waitingForReceipt": "Waiting for receipt...",
     "wallet": "Your Wallet",
     "yourAddress": "Your address",
-    "youveArrivedOnMars": "You've arrived on Mars, Osmosis blockchain's credit protocol."
+    "youveArrivedOnMars": "You've arrived on Mars, the money market fo the Osmosis blockchain."
   },
   "council": {
     "activeProposal": "Active Proposal",
@@ -463,19 +463,19 @@
     "yield": "Yield"
   },
   "redbank": {
-    "borrowMarkets": "Borrow Markets",
+    "borrowMarkets": "Borrowings",
     "buyAssetsFirstToBeAbleToDeposit": "Buy assets first to be able to deposit them. <1>Learn how</1>",
     "buyAssetsFirstToBeAbleToBorrow": "Buy assets first, then deposit to be able to borrow. <1>Learn how</1>",
     "deposit": "Deposit",
-    "depositMarkets": "Deposit Markets",
-    "lendAndBorrowMoney": "Lend and borrow tokens on the Osmosis blockchain",
+    "depositMarkets": "Deposits",
+    "lendAndBorrowMoney": "Lend and borrow money on the Osmosis blockchain",
     "myBorrowBalance": "My Borrow Balance",
     "myBorrowings": "My Borrowings",
     "myDeposits": "My Deposits",
     "myDepositBalance": "My Deposit Balance",
     "noFundsForRepay": "You do not have any {{symbol}} in your wallet to repay the debt.",
     "notBorrowedYet": "Not borrowed yet",
-    "readMoreAboutMarsOrLearnHowToUseTheRedBank": "<0>Read more about Mars</0> or <2>learn how to use the Red Bank.</2>",
+    "readMoreAboutMarsOrLearnHowToUseTheRedBank": "<0>Read more about MARS</0> or <2>learn how to use the RED BANK.</2>",
     "redbankActionBorrowTooltip": "Enter the amount you would like to borrow. You can see how this transaction will impact any existing borrowing balance in the New Borrow Balance panel.",
     "redbankActionDepositTooltip": "Enter the amount you would like to deposit. You can see how this transaction will impact any existing deposit balance in the New Deposit Balance panel.",
     "redbankActionWithdrawTooltip": "Enter the amount you would like to withdraw. You can see how this transaction will impact any existing deposit balance in the New Deposit Balance panel.",
