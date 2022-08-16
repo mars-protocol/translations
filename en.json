@@ -111,7 +111,7 @@
     "waitingForReceipt": "Waiting for receipt...",
     "wallet": "Your Wallet",
     "yourAddress": "Your address",
-    "youveArrivedOnMars": "You've arrived on Mars, Terra blockchain's credit protocol."
+    "youveArrivedOnMars": "You've arrived on Mars, Osmosis blockchain's credit protocol."
   },
   "council": {
     "activeProposal": "Active Proposal",
@@ -468,7 +468,7 @@
     "buyAssetsFirstToBeAbleToBorrow": "Buy assets first, then deposit to be able to borrow. <1>Learn how</1>",
     "deposit": "Deposit",
     "depositMarkets": "Deposit Markets",
-    "lendAndBorrowMoney": "Lend and borrow tokens on the Terra blockchain",
+    "lendAndBorrowMoney": "Lend and borrow tokens on the Osmosis blockchain",
     "myBorrowBalance": "My Borrow Balance",
     "myBorrowings": "My Borrowings",
     "myDeposits": "My Deposits",
