@@ -263,6 +263,7 @@
     "apyBreakdown": "APY Breakdown",
     "baseApy": "Total APY",
     "current": "Current",
+    "estDailyIncome": "Est. daily income",
     "introTitle": "Farm the fields of Mars",
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
     "notifications": {
@@ -280,7 +281,15 @@
         "single": "Currently unlocking one {{lp}} position. Time left: {{time}}",
         "plural": "Currently unlocking several positions. Check the Active Vaults to learn when you can close your position."
       }
-    }
+    },
+    "netValue": "Net value",
+    "netYield": "Net yield",
+    "positionValue": "Position value",
+    "tooltips": {
+      "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested."
+    },
+    "totalBorrowed": "Total borrowed",
+    "unrealizedPnl": "Unrealized PNL"
   },
   "global": {
     "about": "About",
