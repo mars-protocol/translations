@@ -57,6 +57,8 @@
     "currentNetwork": "Current network",
     "currentBorrowBalance": "Current Borrow Balance",
     "currentDepositBalance": "Current Deposit Balance",
+    "day": "day",
+    "debt": "Debt",
     "depositedAmountSymbol": "Deposited: {{amount}} {{symbol}}",
     "dialogHeaderTooltip": "This window displays the status of your transaction.",
     "disclaimers": "Disclaimers",
@@ -79,6 +81,7 @@
     "maxLimitAmountSymbol": "Max Limit: {{amount}} {{symbol}}",
     "marketLiquidity": "Market Liquidity",
     "marketLiquidityShort": "Market Liq.",
+    "net": "Net",
     "newBorrowBalance": "New Borrow Balance",
     "newDepositBalance": "New Deposit Balance",
     "noDebt": "No debt",
@@ -112,6 +115,7 @@
     "transactionSuccessful": "Transaction Successful",
     "txHash": "Tx Hash",
     "txPending": "Tx Pending",
+    "unlocked": "Unlocked",
     "used": "used",
     "via": "via",
     "viewOnFinder": "View on Mintscan",
@@ -260,12 +264,15 @@
     "welcomeMartian": "Welcome, Martian!"
   },
   "fields": {
+    "activeVaults": "Active vaults",
     "apyBreakdown": "APY Breakdown",
     "baseApy": "Total APY",
     "current": "Current",
     "estDailyIncome": "Est. daily income",
     "introTitle": "Farm the fields of Mars",
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
+    "leverage": "Leverage",
+    "notEarning": "Not earning",
     "notifications": {
       "unlocked": {
         "single": {
@@ -284,12 +291,18 @@
     },
     "netValue": "Net value",
     "netYield": "Net yield",
+    "pnl": "PnL",
+    "position": "Position",
     "positionValue": "Position value",
+    "positionValueShort": "Pos. value",
+    "reducedEarning": "Reduced earning",
     "tooltips": {
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested."
     },
     "totalBorrowed": "Total borrowed",
-    "unrealizedPnl": "Unrealized PNL"
+    "unlocking": "Unlocking",
+    "unrealizedPnl": "Unrealized PNL",
+    "xDayLockup": "{{days}} day lockup"
   },
   "global": {
     "about": "About",
