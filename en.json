@@ -416,6 +416,7 @@
     "buyAssetsFirstToBeAbleToBorrow": "Buy assets first, then deposit to be able to borrow. <1>Learn how</1>",
     "currentPortfolio": "Current Portfolio",
     "deposit": "Deposit",
+    "depositCap": "Deposit cap.",
     "depositMarkets": "Deposits",
     "lendAndBorrowMoney": "Lend and borrow money on the Osmosis blockchain",
     "myBorrowBalance": "My Borrow Balance",
