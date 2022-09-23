@@ -420,6 +420,8 @@
     "deposit": "Deposit",
     "depositCap": "Deposit cap.",
     "depositMarkets": "Deposits",
+    "depositCapWarning": "Current amount exceeds deposit cap. Only {{amount}} more {{symbol}} can be deposited.",
+    "depositCapReachedWarning": "The deposit cap for {{symbol}} has been reached. Depositing is currently not possible.",
     "lendAndBorrowMoney": "Lend and borrow money on the Osmosis blockchain",
     "myBorrowBalance": "My Borrow Balance",
     "myBorrowings": "Borrowings",
