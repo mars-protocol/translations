@@ -442,8 +442,8 @@
     "redBankTooltip": "Your max LTV is {{collateralLimit}} or {{collateralLimitValue}} UST based on your current collateral makeup. You are at {{currentPercentage}} of your liquidation threshold. If you reach 100%, you are at immediate risk of liquidation.",
     "toDepositAssetOnChain": "To deposit {{asset}}, first visit an interchain dex to acquire it and transfer it to {{chain}}",
     "warning": {
-      "depositCap": "Current amount exceeds deposit cap. Only {{amount}} more {{symbol}} can be deposited.",
-      "depositCapReached": "The deposit cap for {{symbol}} has been reached. Depositing is currently not possible.",
+      "depositCap": "Amount exceeds deposit cap. Max amount left: {{amount}} {{symbol}}.",
+      "depositCapReached": "The deposit cap for {{symbol}} has been reached.",
       "withdraw": "Withdrawing is not possible. Repay borrowed assets to enable withdrawing of assets.",
       "borrow": "Borrowing is not possible. Deposit assets first to enable borrowing."
     },
