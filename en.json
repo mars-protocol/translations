@@ -122,6 +122,7 @@
     "used": "used",
     "via": "via",
     "viewOnFinder": "View on Mintscan",
+    "viewOnExplorer": "View on {{explorer}}",
     "waitingForReceipt": "Waiting for receipt...",
     "wallet": "Your Wallet",
     "yourAddress": "Your address",
