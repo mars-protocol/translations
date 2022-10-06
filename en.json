@@ -15,7 +15,7 @@
     "marsHubBlockchainUsesTheKeplrWallet": "To claim the airdrop, click the button below to connect your Keplr. You will need to add MARS Hub to Keplr as well as create an account with an address that starts with the 'MARS' prefix.",
     "marsTokenHoldersOnTerraClassic": "MARS token holders on Terra Classic can now claim MARS tokens directly on Mars Hub and help shape the future of the galaxy's most powerful borrowing and lending protocol.",
     "noAirdropAvailable": "No Airdrop available",
-    "notSupported": "This connection method is not supported, as it doesn't support the signBytes() method, which is mandatory for the airdrop claiming process",
+    "notSupported": "This connection method is not available as it doesn't support signing arbitrary messages",
     "nowConnectToKeplr": "Now, connect your Keplr Wallet as well to initiate your claim.",
     "onlyEnabledForDesktop": "The MARS claim process is only enabled for desktop.",
     "originallyLaunchedOnTerra": "Originally launched on Terra Classic, Mission Control has deployed Mars Hub: a new blockchain in the Cosmos galaxy.",
