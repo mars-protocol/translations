@@ -416,7 +416,7 @@
   "redbank": {
     "borrowedAmountSymbol": "Borrowed: {{amount}} {{symbol}}",
     "borrowMarkets": "Borrowings",
-    "borrowingBarTooltip": "The borrowing capacity bar displays the total amount you can borrow. Your liquidation threshold will be hit if the bar reaches 100%.",
+    "borrowingBarTooltip": "The borrowing capacity bar displays the total amount you can borrow ({{limit}}). Your liquidation threshold will be hit if the bar reaches 100% ({{liquidation}}).",
     "buyAssetsFirstToBeAbleToDeposit": "Buy assets first to be able to deposit them. <1>Learn how</1>",
     "buyAssetsFirstToBeAbleToBorrow": "Buy assets first, then deposit to be able to borrow. <1>Learn how</1>",
     "currentPortfolio": "Current Portfolio",
