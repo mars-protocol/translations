@@ -39,6 +39,7 @@
     "and": "and",
     "appearToBeOffline": "You appear to be offline",
     "approveTx": "Approve the Transaction and wait for it to conclude.",
+    "apr": "APR",
     "apy": "APY",
     "asset": "Asset",
     "balance": "Balance",
@@ -279,6 +280,9 @@
     "introTitle": "Farm the fields of Mars",
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
     "leverage": "Leverage",
+    "messages": {
+      "unableToIncreaseLeverage": "You are unable to borrow more {{symbol}} to increase leverage beyond {{leverage}}x"
+    },
     "notEarning": "Not earning",
     "notifications": {
       "unlocked": {
@@ -355,6 +359,7 @@
     "termsOfService": "Terms of Service",
     "theFieldsOfMars": "The Fields of Mars",
     "theRedBank": "The Red Bank",
+    "wallet": "Wallet",
     "walletConnect": "Wallet Connect",
     "walletConnectDescription": "Keplr mobile WalletConnect",
     "walletReset": "Retry the Connection",
