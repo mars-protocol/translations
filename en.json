@@ -419,11 +419,13 @@
     "yourVoiceMattersHere": "Your voice matters here.<br /><br />Stake the <strong>Mars token (MARS)</strong> and earn the right to ascend to <strong>the Citadel</strong> and take a seat on the <strong>Martian Council</strong>.<br /><br />There, you’ll help the protocol shape the very future, not just of our planet, but of the entire Cosmos and beyond."
   },
   "redbank": {
+    "borrow": "Borrow",
     "borrowedAmountSymbol": "Borrowed: {{amount}} {{symbol}}",
     "borrowMarkets": "Borrowings",
     "borrowingBarTooltip": "The borrowing capacity bar displays the total amount you can borrow ({{limit}}). Your liquidation threshold will be hit if the bar reaches 100% ({{liquidation}}).",
     "buyAssetsFirstToBeAbleToDeposit": "Buy assets first to be able to deposit them. <1>Learn how</1>",
     "buyAssetsFirstToBeAbleToBorrow": "Buy assets first, then deposit to be able to borrow. <1>Learn how</1>",
+    "close": "Close",
     "currentPortfolio": "Current Portfolio",
     "deposit": "Deposit",
     "depositCap": "Deposit cap.",
@@ -448,6 +450,7 @@
     "redbankPortfolioTooltip": "You can borrow up to the red line in the Borrowing Capacity bar graph. If you fill the entire Borrowing Capacity bar, you’re in danger of liquidation.",
     "redBankRewards": "Red Bank Rewards",
     "redBankTooltip": "Your max LTV is {{collateralLimit}} or {{collateralLimitValue}} UST based on your current collateral makeup. You are at {{currentPercentage}} of your liquidation threshold. If you reach 100%, you are at immediate risk of liquidation.",
+    "repay": "Repay",
     "toDepositAssetOnChain": "To deposit {{asset}}, first visit an interchain dex to acquire it and transfer it to {{chain}}",
     "warning": {
       "depositCap": "Amount exceeds deposit cap. Max amount left: {{amount}} {{symbol}}.",
