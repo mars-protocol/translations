@@ -277,6 +277,7 @@
     "availableVaults": "Available vaults",
     "apyBreakdown": "APY Breakdown",
     "baseApy": "Total APY",
+    "borrowRate": "Borrow rate",
     "breakdown": "Breakdown",
     "creditLine": "Credit line",
     "current": "Current",
@@ -284,6 +285,7 @@
     "introTitle": "Farm the fields of Mars",
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
     "leverage": "Leverage",
+    "liqPrice": "Liq. price",
     "messages": {
       "unableToIncreaseLeverage": "You are unable to borrow more {{symbol}} to increase leverage beyond {{leverage}}x"
     },
