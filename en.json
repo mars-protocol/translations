@@ -286,6 +286,7 @@
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
     "leverage": "Leverage",
     "liqPrice": "Liq. price",
+    "liquidationThreshold": "Liquidation threshold",
     "messages": {
       "unableToIncreaseLeverage": "You are unable to borrow more {{symbol}} to increase leverage beyond {{leverage}}x"
     },
