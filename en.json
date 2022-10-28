@@ -102,6 +102,7 @@
     "received": "Received",
     "refresh": "Refresh",
     "repay": "Repay",
+    "setup": "Set up",
     "signMessage": "Sign Message",
     "showAll": "Show All",
     "showPortfolio": "Show Portfolio",
@@ -279,6 +280,7 @@
     "baseApy": "Total APY",
     "borrowRate": "Borrow rate",
     "breakdown": "Breakdown",
+    "noReduce": "You cannot reduce your position for Osmosis LPs.",
     "creditLine": "Credit line",
     "current": "Current",
     "estDailyIncome": "Est. daily income",
@@ -314,8 +316,9 @@
     "positionValue": "Position value",
     "positionValueShort": "Pos. value",
     "reducedEarning": "Reduced earning",
+    "repayFromWallet": "Repay debt from wallet instead",
     "setup": {
-      "title": "Setup position",
+      "title": "Set up position",
       "step1": {
         "title": "Step 1: Create credit account",
         "text": "To enter a new vault you first need to mint a Credit Account. Each Osmosis LP you enter requires a new Credit Account.",
@@ -325,7 +328,7 @@
       "step2": {
         "title": "Step 2: Set up and lock",
         "text": "Your Osmosis LP tokens are locked up for X days in this position. That means reducing your position size will not be possible. Closing your position requires a X-day unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
-        "button": "Setup my vault"
+        "button": "Set up my vault"
       }
     },
     "tooltips": {
@@ -334,6 +337,7 @@
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested."
     },
     "totalBorrowed": "Total borrowed",
+    "unlockBtn": "Unlock ({{days}})d",
     "unlocking": "Unlocking",
     "unrealizedPnl": "Unrealized PNL",
     "xDayLockup": "{{days}} day lockup"
