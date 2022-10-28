@@ -339,6 +339,7 @@
     "totalBorrowed": "Total borrowed",
     "unlockBtn": "Unlock ({{days}}d)",
     "unlocking": "Unlocking",
+    "unlockWarning": "Subject to a 7 day unlocking period. Unlock to take profits.",
     "unrealizedPnl": "Unrealized PNL",
     "xDayLockup": "{{days}} day lockup"
   },
