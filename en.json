@@ -337,7 +337,7 @@
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested."
     },
     "totalBorrowed": "Total borrowed",
-    "unlockBtn": "Unlock ({{days}})d",
+    "unlockBtn": "Unlock ({{days}}d)",
     "unlocking": "Unlocking",
     "unrealizedPnl": "Unrealized PNL",
     "xDayLockup": "{{days}} day lockup"
