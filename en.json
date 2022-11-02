@@ -287,7 +287,7 @@
       "lockup": {
         "title": "Osmosis LP lock-up",
         "description": "Your Osmosis LP tokens are locked up for {{days}} days in this position. That means reducing your position size will not be possible. Closing your position requires a {{days}}-day unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
-        "button": "Set up a {{}}-day locked LP"
+        "button": "Set up a {{days}}-day locked LP"
       }
     },
     "estDailyIncome": "Est. daily income",
