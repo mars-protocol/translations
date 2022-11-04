@@ -279,6 +279,7 @@
     "apyBreakdown": "APY Breakdown",
     "baseApy": "Total APY",
     "borrowRate": "Borrow rate",
+    "borrowRateApy": "Borrowing Fees APY",
     "breakdown": "Breakdown",
     "noReduce": "You cannot reduce your position for Osmosis LPs.",
     "creditLine": "Credit line",
@@ -295,6 +296,7 @@
     "introTitle": "Farm the fields of Mars",
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
     "leverage": "Leverage",
+    "leveragedApy": "{{leverage}} Leveraged APY",
     "liqPrice": "Liq. price",
     "liquidationThreshold": "Liquidation threshold",
     "messages": {
