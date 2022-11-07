@@ -351,6 +351,7 @@
     "unlocking": "Unlocking",
     "unlockWarning": "Subject to a {{days}} day unlocking period. Unlock to take profits.",
     "unrealizedPnl": "Unrealized PNL",
+    "vaultApy": "Vault APY",
     "xDayLockup": "{{days}} day lockup"
   },
   "global": {
