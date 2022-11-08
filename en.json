@@ -289,6 +289,11 @@
         "title": "Osmosis LP lock-up",
         "description": "Your Osmosis LP tokens are locked up for {{days}} days in this position. That means reducing your position size will not be possible. Closing your position requires a {{days}}-day unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
         "button": "Set up a {{days}}-day locked LP"
+      },
+      "unlock": {
+        "title": "Unlocking Osmosis LP tokens",
+        "description": "Beware, once the unlock has been initiated, it cannot be revoked or stopped. You will not earn fees or rewards during the unbonding period. You will not be able to reduce your exposure, but you can repay debt to avoid liquidation. Upon completion of the unbonding period, you can only close your postion. The complete amount of tokens will be transfered to the wallet you deposited them from.",
+        "button": "Unlock"
       }
     },
     "estDailyIncome": "Est. daily income",
