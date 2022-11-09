@@ -352,6 +352,23 @@
     },
     "totalApy": "Total APY",
     "totalBorrowed": "Total borrowed",
+    "tutorial": {
+      "1": {
+        "title": "1. Supply Collateral",
+        "description": "Supply tokens to this position. Assets will be swapped if necessary. Click the plus to supply two different tokens.",
+        "button": "Next"
+      },
+      "2": {
+        "title": "2. Add leverage",
+        "description": "Multipy your returns by taking on debt. Leverage is how much bigger your position is than your supply. The higher the leverage, the bigger the risk.",
+        "button": "Next"
+      },
+      "3": {
+        "title": "3. Borrow",
+        "description": "Set the exact amount you want to borrow. You can borrow up to 2× what you supply as collateral. Beware, if you’re debt grows faster than your posititon, you will eventually get liquidated.",
+        "button": "Got it"
+      }
+    },
     "unlockBtn": "Unlock ({{days}}d)",
     "unlocking": "Unlocking",
     "unlockWarning": "Subject to a {{days}} day unlocking period. Unlock to take profits.",
