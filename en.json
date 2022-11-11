@@ -303,6 +303,7 @@
     "leveragedApy": "{{leverage}} Leveraged APY",
     "liqPrice": "Liq. price",
     "liquidationThreshold": "Liquidation threshold",
+    "managePosition": "Manage Position",
     "messages": {
       "unableToIncreaseLeverage": "You are unable to borrow more {{symbol}} to increase leverage beyond {{leverage}}x"
     },
@@ -330,7 +331,10 @@
     "positionValue": "Position value",
     "positionValueShort": "Pos. value",
     "reducedEarning": "Reduced earning",
+    "repayDebt": "Repay debt",
+    "repayDescription": "‘Repay Debt’ lowers your Debt and increase your Net Value by the same amount. Your Position size will stay constant, your leverage will be reduced.",
     "repayFromWallet": "Repay debt from wallet instead",
+    "repayingDebtFromWallet": "Repaying Debt from your wallet",
     "setup": {
       "title": "Set up position",
       "step1": {
