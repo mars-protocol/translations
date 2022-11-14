@@ -518,20 +518,20 @@
     "tutorial": {
       "1": {
         "title": "1. Deposit collateral",
-        "description": "Welcome to the Red Bank! To start, you have to provide collateral. Select an asset by clicking on it. Either you have to buy it on the free market or you can proceed and click on 'Deposit'.",
+        "description": "Welcome to the Red Bank! To begin your journey, you must provide collateral. Select an asset by clicking on it and choosing 'Deposit'. If you don’t have any of the supported assets, you’ll need to buy them on an exchange.",
         "button": "Next"
       },
       "2": {
         "title": "2. Borrow against your collateral",
-        "description": "As soon as you deposited collateral, you can borrow against it. To borrow, you have to click on an asset and continue with 'Borrow'.",
+        "description": "Once you’ve deposited collateral, you can borrow against it. Click on the asset you’d like to borrow and select ‘Borrow.’",
         "button": "Next"
       },
       "3": {
         "title": "3. Your portfolio",
-        "description": "This is your portfolio overview. You can borrow up to the white line in the Borrowing Capacity bar graph. If you fill the entire Borrowing Capacity bar, you’re in danger of liquidation.  Your liquidation threshold will be hit if the bar reaches 100%.",
+        "description": "This is your portfolio overview. You can borrow up to the white line in the Borrowing Capacity bar graph. As the value of your collateral and borrowings fluctuate, the Borrowing Capacity bar will automatically update. If you fill the Borrowing Capacity bar to 100%, you're in immediate danger of liquidation.",
         "button": "Got it"
       }
-    },
+    },  
     "warning": {
       "depositCap": "Amount exceeds deposit cap. Max amount left: {{amount}} {{symbol}}.",
       "depositCapReached": "The deposit cap for {{symbol}} has been reached.",
