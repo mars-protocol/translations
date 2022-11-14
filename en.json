@@ -515,6 +515,23 @@
     "redBankTooltip": "Your max LTV is {{collateralLimit}} or {{collateralLimitValue}} UST based on your current collateral makeup. You are at {{currentPercentage}} of your liquidation threshold. If you reach 100%, you are at immediate risk of liquidation.",
     "repay": "Repay",
     "toDepositAssetOnChain": "To deposit {{asset}}, first visit an interchain dex to acquire it and transfer it to {{chain}}",
+    "tutorial": {
+      "1": {
+        "title": "1. Deposit collateral",
+        "description": "Welcome to the Red Bank! To start, you have to provide collateral. Select an asset by clicking on it. Either you have to buy it on the free market or you can proceed and click on 'Deposit'.",
+        "button": "Next"
+      },
+      "2": {
+        "title": "2. Borrow against your collateral",
+        "description": "As soon as you deposited collateral, you can borrow against it. To borrow, you have to click on an asset and continue with 'Borrow'.",
+        "button": "Next"
+      },
+      "3": {
+        "title": "3. Your portfolio",
+        "description": "This is your portfolio overview. You can borrow up to the white line in the Borrowing Capacity bar graph. If you fill the entire Borrowing Capacity bar, you’re in danger of liquidation.  Your liquidation threshold will be hit if the 'borrowing capacity' bar reaches 100%.",
+        "button": "Got it"
+      }
+    },
     "warning": {
       "depositCap": "Amount exceeds deposit cap. Max amount left: {{amount}} {{symbol}}.",
       "depositCapReached": "The deposit cap for {{symbol}} has been reached.",
