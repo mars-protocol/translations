@@ -32,7 +32,7 @@
     "unsureIfYouQualify": "Unsure if you qualify? Check out the Mars airdrop <1>FAQ's</1>",
     "wrongNetwork": "Wrong Terra network",
     "youHaveClaimed": "You have claimed {{amount}} MARS",
-    "youHaveMarsToClaim": "You have <1></1> MARS to claim",
+    "youHaveMarsToClaim": "You have <0></0> MARS to claim",
     "yourMarsTokensShouldAutomaticallyAppear": "Your MARS tokens should automatically appear in Keplr. Stake them now to ascend to the Martian Council."
   },
   "common": {
@@ -531,7 +531,7 @@
         "description": "This is your portfolio overview. You can borrow up to the white line in the Borrowing Capacity bar graph. As the value of your collateral and borrowings fluctuate, the Borrowing Capacity bar will automatically update. If you fill the Borrowing Capacity bar to 100%, you're in immediate danger of liquidation.",
         "button": "Got it"
       }
-    },  
+    },
     "warning": {
       "depositCap": "Amount exceeds deposit cap. Max amount left: {{amount}} {{symbol}}.",
       "depositCapReached": "The deposit cap for {{symbol}} has been reached.",
