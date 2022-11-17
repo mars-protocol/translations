@@ -31,8 +31,8 @@
     "toInitiateYourClaim": "To initiate your claim, you need to connect both Terra Station as well as Keplr Wallet then follow the prompts from Mission Control.",
     "unsureIfYouQualify": "Unsure if you qualify? Check out the Mars airdrop <1>FAQ's</1>",
     "wrongNetwork": "Wrong Terra network",
-    "youHaveClaimed": "You have claimed <0></0>",
-    "youHaveMarsToClaim": "You have <0></0> to claim",
+    "youHaveClaimed": "You have claimed <0>{{amount}}</0>",
+    "youHaveMarsToClaim": "You have <0>{{amount}}</0> to claim",
     "yourMarsTokensShouldAutomaticallyAppear": "Your MARS tokens should automatically appear in Keplr. Stake them now to ascend to the Martian Council."
   },
   "common": {
