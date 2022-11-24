@@ -73,7 +73,6 @@
     "failed": "Failed",
     "gas": "Gas",
     "iBorrow": "I Borrow",
-    "incentiveApr": "Incentive APR",
     "installName": "Install {{name}}",
     "iSupply": "I Supply",
     "inWallet": "In Wallet",
@@ -328,22 +327,15 @@
     "whitepaper": "Whitepaper"
   },
   "incentives": {
-    "airdrop": "Airdrop",
-    "airdropClaimNotification": "You have an unclaimed MARS airdrop, click <1>HERE</1> to claim it",
     "claimRewards": "Claim Rewards",
-    "claimUnlockedRewards": "Claim Unlocked Rewards",
     "depositRewards": "Deposit Rewards",
-    "locked": "locked",
-    "lockdrop": "Lockdrop",
     "lpRewards": "LP Rewards",
     "marsRewardsCenter": "Mars Rewards Center",
-    "marsRewardsCenterTooltip": "If you’re eligible for Mars rewards including Red Bank rewards and Phase 1, Phase 2 or airdrop rewards, you can claim them here.",
+    "marsRewardsCenterTooltip": "If you’re eligible for Red Bank rewards, you can claim them here.",
     "nothingToClaim": "Nothing to Claim",
     "ongoingRewards": "Ongoing Rewards",
-    "phase1": "Phase 1",
-    "phase2": "Phase 2",
     "totalRewards": "Total Rewards",
-    "unlocked": "unlocked"
+    "incentiveApr": "Incentive APR"
   },
   "landing": {
     "braveNewWorld": "A brave <strong>new world</strong>",
