@@ -184,8 +184,8 @@
       "dontShowAgain": "Don't show this again",
       "lockup": {
         "title": "Osmosis LP lock-up",
-        "description": "Your Osmosis LP tokens are locked up for {{days}} days in this position. That means reducing your position size will not be possible. Closing your position requires a {{days}}-day unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
-        "button": "Set up a {{days}}-day locked LP"
+        "description": "Your Osmosis LP tokens are locked up for {{time}} {{unit}} in this position. That means reducing your position size will not be possible. Closing your position requires a {{time}}-{{unit}} unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
+        "button": "Set up a {{time}}-{{unit}} locked LP"
       },
       "unlock": {
         "title": "Unlocking Osmosis LP tokens",
@@ -270,12 +270,12 @@
         "button": "Got it"
       }
     },
-    "unlockBtn": "Unlock ({{days}}d)",
+    "unlockBtn": "Unlock ({{time}}{{unit}})",
     "unlocking": "Unlocking",
-    "unlockWarning": "Subject to a {{days}} day unlocking period. Unlock to take profits.",
+    "unlockWarning": "Subject to a {{time}} unlocking period. Unlock to take profits.",
     "unrealizedPnl": "Unrealized PNL",
     "vaultApy": "Vault APY",
-    "xDayLockup": "{{days}} day lockup"
+    "xDayLockup": "{{time}} lockup"
   },
   "global": {
     "about": "About",
