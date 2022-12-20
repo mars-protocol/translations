@@ -335,7 +335,8 @@
     "nothingToClaim": "Nothing to Claim",
     "ongoingRewards": "Ongoing Rewards",
     "totalRewards": "Total Rewards",
-    "incentiveApr": "Incentive APR"
+    "incentiveApr": "Incentive APR",
+    "successfullyClaimed": "You have successfully claimed your rewards!"
   },
   "landing": {
     "braveNewWorld": "A brave <strong>new world</strong>",
