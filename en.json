@@ -206,6 +206,7 @@
     "introTitle": "Farm the fields of Mars",
     "introDescription": "Proceed with caution fellow Farmer. Riches and ruins lie ahead.",
     "leverage": "Leverage",
+    "leverageShort": "lev",
     "leveragedApy": "{{leverage}} Leveraged APY",
     "liqPrice": "Liq. price",
     "liquidationThreshold": "Liquidation threshold",
