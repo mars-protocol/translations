@@ -101,6 +101,7 @@
     "received": "Received",
     "refresh": "Refresh",
     "repay": "Repay",
+    "secondary": "Secondary",
     "setup": "Set up",
     "signMessage": "Sign Message",
     "showAll": "Show All",
@@ -171,6 +172,14 @@
     "welcomeMartian": "Welcome, Martian!"
   },
   "fields": {
+    "actions": {
+      "deposited": "Deposited",
+      "repaid": "Repaid",
+      "borrowed": "Borrowed",
+      "withdrawn": "Withdrawn",
+      "unlocking": "Unlocking",
+      "swap": "Swap"
+    },
     "activeVaults": "Active vaults",
     "availableVaults": "Available vaults",
     "apyBreakdown": "APY Breakdown",
@@ -270,7 +279,15 @@
         "button": "Got it"
       }
     },
+    "txMessages": {
+      "setup": "Position set up",
+      "edit": "Position updated",
+      "repay": "Debt repaid",
+      "unlock": "Unlock requested",
+      "close": "Position closed"
+    },
     "unlockBtn": "Unlock ({{time}}{{unit}})",
+    "unlocksAt": "Unlocks at",
     "unlocking": "Unlocking",
     "unlockWarning": "Subject to a {{time}} unlocking period. Unlock to take profits.",
     "unrealizedPnl": "Unrealized PNL",
