@@ -62,7 +62,7 @@
     "currentNetwork": "Current network",
     "currentBorrowBalance": "Current Borrow Balance",
     "currentDepositBalance": "Current Deposit Balance",
-    "custom": "custom",
+    "custom": "Custom",
     "day": "day",
     "debt": "Debt",
     "depositedAmountSymbol": "Deposited: {{amount}} {{symbol}}",
