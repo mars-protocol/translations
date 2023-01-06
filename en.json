@@ -215,10 +215,10 @@
     "liquidationThreshold": "Liquidation threshold",
     "managePosition": "Manage Position",
     "messages": {
-      "noReduce": "You cannot reduce your position for Osmosis LPs.",
+      "noReduce": "You cannot reduce your debt",
       "repayFromWallet": "Repay debt from wallet instead",
       "unableToIncreaseLeverage": "Not enough Red Bank liquidity to increase leverage beyond {{leverage}}x",
-      "unlockWarning": "Subject to a {{time}} unlocking period. Unlock to take profits.",
+      "unlockWarning": "You cannot reduce your position. Subject to a {{time}} unlocking period. Unlock to take profits.",
       "vaultCap": "Vault cap reached. Position value can not exceed {{amount}}"
     },
     "notEarning": "Not earning",
