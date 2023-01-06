@@ -216,7 +216,8 @@
     "liquidationThreshold": "Liquidation threshold",
     "managePosition": "Manage Position",
     "messages": {
-      "unableToIncreaseLeverage": "You are unable to borrow more {{symbol}} to increase leverage beyond {{leverage}}x"
+      "unableToIncreaseLeverage": "Not enough Red Bank liquidity to increase leverage beyond {{leverage}}x",
+      "vaultCap": "Vault cap reached. Can't increase beyond current amount"
     },
     "notEarning": "Not earning",
     "notifications": {
