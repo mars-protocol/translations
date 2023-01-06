@@ -190,7 +190,6 @@
     "borrowRate": "Borrow rate",
     "borrowRateApy": "Borrowing rate APY",
     "breakdown": "Breakdown",
-    "noReduce": "You cannot reduce your position for Osmosis LPs.",
     "creditLine": "Credit line",
     "current": "Current",
     "disclaimers": {
@@ -216,8 +215,11 @@
     "liquidationThreshold": "Liquidation threshold",
     "managePosition": "Manage Position",
     "messages": {
+      "noReduce": "You cannot reduce your position for Osmosis LPs.",
+      "repayFromWallet": "Repay debt from wallet instead",
       "unableToIncreaseLeverage": "Not enough Red Bank liquidity to increase leverage beyond {{leverage}}x",
-      "vaultCap": "Vault cap reached. Can't increase beyond current amount"
+      "unlockWarning": "Subject to a {{time}} unlocking period. Unlock to take profits.",
+      "vaultCap": "Vault cap reached. Position value can not exceed {{amount}}"
     },
     "notEarning": "Not earning",
     "notifications": {
@@ -246,7 +248,6 @@
     "removeLiquidity": "Remove liquidity from {{vault}}",
     "repayDebt": "Repay debt",
     "repayDescription": "‘Repay Debt’ lowers your Debt and increase your Net Value by the same amount. Your Position size will stay constant, your leverage will be reduced.",
-    "repayFromWallet": "Repay debt from wallet instead",
     "repayingDebtFromWallet": "Repaying Debt from your wallet",
     "setup": {
       "title": "Set up position",
@@ -298,7 +299,7 @@
     "unlockBtn": "Unlock ({{time}}{{unit}})",
     "unlocksAt": "Unlocks at",
     "unlocking": "Unlocking",
-    "unlockWarning": "Subject to a {{time}} unlocking period. Unlock to take profits.",
+
     "unrealizedPnl": "Unrealized PNL",
     "vaultApy": "Vault APY",
     "vaultCap": "Vault cap.",
