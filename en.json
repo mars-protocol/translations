@@ -109,7 +109,7 @@
     "signMessage": "Sign Message",
     "showAll": "Show All",
     "showComposition": "Show Composition",
-    "slippage": "Slippage",
+    "slippage": "Slippage tolerance",
     "stability": "Stability Fee",
     "submit": "Submit TX",
     "summary": "Summary",
@@ -269,7 +269,8 @@
     "tooltips": {
       "activeVaults": "Click “Manage” to adjust or close your active Fields of Mars strategies. Abbreviations are defined here:<br/><br/><strong>PNL:</strong> Profit and loss. <i>PnL is the change in value of a position since the position was last updated. When a position is edited or created a snapshot of the position is recorded, and the PnL is calculated as currentValue - snapshotValue, where value is the total UST value of the position.</i><br/><strong>APY:</strong> An estimated annual percentage yield. <i>The APY are calculated using token prices denominated in UST. Prices are fetched from Astroport pools. Also, the APY are 365 day projections based on each pool’s performance over the last 24h. See Mars Disclaimers & Disclosures for more details.</i><br/><strong>Liq. Price:</strong> Liquidation price<br/><strong>LTV:</strong> Loan-to-value ratio<br/><br/>If your LTV hits 100%, you are in danger of being liquidated.",
       "availableVaults": "Click “Manage” to adjust or close your active Fields of Mars strategies. Abbreviations are defined here:<br/><br/><strong>PNL:</strong> Profit and loss. <i>PnL is the change in value of a position since the position was last updated. When a position is edited or created a snapshot of the position is recorded, and the PnL is calculated as currentValue - snapshotValue, where value is the total UST value of the position.</i><br/><strong>APY:</strong> An estimated annual percentage yield. <i>The APY are calculated using token prices denominated in UST. Prices are fetched from Astroport pools. Also, the APY are 365 day projections based on each pool’s performance over the last 24h. See Mars Disclaimers & Disclosures for more details.</i><br/><strong>Liq. Price:</strong> Liquidation price<br/><strong>LTV:</strong> Loan-to-value ratio<br/><br/>If your LTV hits 100%, you are in danger of being liquidated.",
-      "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested."
+      "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested.",
+      "slippage": "Some interactions with the Fields of Mars strategies include a swap. A transaction will fail, if the price of the of the swap asset changes unfavorably by more than this percentage."
     },
     "totalApy": "Total APY",
     "totalBorrowed": "Total borrowed",
