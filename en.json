@@ -104,7 +104,7 @@
     "refresh": "Refresh",
     "repay": "Repay",
     "secondary": "Secondary",
-    "settings": "Settings",
+    "settings": "Global Settings",
     "setup": "Set up",
     "signMessage": "Sign Message",
     "showAll": "Show All",
@@ -250,6 +250,7 @@
     "repayDebt": "Repay debt",
     "repayDescription": "‘Repay Debt’ lowers your Debt and increase your Net Value by the same amount. Your Position size will stay constant, your leverage will be reduced.",
     "repayingDebtFromWallet": "Repaying Debt from your wallet",
+    "settings": "Farm Settings",
     "setup": {
       "title": "Set up position",
       "step1": {
