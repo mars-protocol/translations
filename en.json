@@ -219,7 +219,8 @@
       "repayFromWallet": "Repay debt from wallet instead",
       "unableToIncreaseLeverage": "Not enough Red Bank liquidity to increase leverage beyond {{leverage}}x",
       "unlockWarning": "You cannot reduce your position. Subject to a {{time}} unlocking period. Unlock to take profits.",
-      "vaultCap": "Vault cap reached. Position value can not exceed {{amount}}"
+      "vaultCap": "Vault cap reached. Position value can not exceed {{amount}}",
+      "vaultCapReached": "Vault cap reached. You cannot add to your position."
     },
     "notEarning": "Not earning",
     "notifications": {
