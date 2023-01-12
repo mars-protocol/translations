@@ -101,6 +101,7 @@
     "prioritizeXdefiWallet": "Prioritize XDEFI in the wallet to connect",
     "rate": "Rate",
     "received": "Received",
+    "reduceMotion": "Reduce Motion",
     "refresh": "Refresh",
     "repay": "Repay",
     "secondary": "Secondary",
@@ -117,6 +118,9 @@
     "succeeded": "Succeeded",
     "success": "success",
     "swap": "Swap",
+    "tooltips": {
+      "reduceMotion": "Turns off all animations (on numbers and elements) of the dApp. Turning animations off can increase the overall performance on lower end hardware."
+    },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
     "tvl": "TVL",
