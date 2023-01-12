@@ -119,7 +119,7 @@
     "success": "success",
     "swap": "Swap",
     "tooltips": {
-      "reduceMotion": "Turns off all animations (on numbers and elements) of the dApp. Turning animations off can increase the overall performance on lower end hardware."
+      "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower end hardware."
     },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
