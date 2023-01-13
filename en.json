@@ -65,6 +65,7 @@
     "custom": "Custom",
     "day": "day",
     "debt": "Debt",
+    "deposited": "Deposited",
     "depositedAmountSymbol": "Deposited: {{amount}} {{symbol}}",
     "dialogHeaderTooltip": "This window displays the status of your transaction.",
     "disclaimers": "Disclaimers",
@@ -183,9 +184,7 @@
   },
   "fields": {
     "actions": {
-      "deposited": "Deposited",
       "repaid": "Repaid",
-      "borrowed": "Borrowed",
       "withdrawn": "Withdrawn",
       "unlocking": "Unlocking",
       "swap": "Swap"
