@@ -94,7 +94,7 @@
     "newDepositBalance": "New Deposit Balance",
     "noDebt": "No debt",
     "noDeposit": "No deposit",
-    "notInYourWallet": "Not in your Wallet",
+    "notInYourWallet": "You have no {{symbol}} in your Wallet",
     "of": "of",
     "oraclePrice": "Oracle Price",
     "overview": "Overview",
