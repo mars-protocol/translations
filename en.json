@@ -81,6 +81,7 @@
     "inWalletAmount": "In Wallet: {{amount}}",
     "inWalletAmountSymbol": "In Wallet: {{amount}} {{symbol}}",
     "learnMore": "Learn more",
+    "liquidationThreshold": "Liq. Threshold",
     "lowUstAmountAfterTransaction": "You'll have no gas money for future transactions if you execute this transaction",
     "lpValue": "LP Value",
     "ltv": "LTV",
@@ -94,6 +95,7 @@
     "noDeposit": "No deposit",
     "notInYourWallet": "Not in your Wallet",
     "of": "of",
+    "oraclePrice": "Oracle Price",
     "overview": "Overview",
     "pending": "Pending",
     "portfolio": "Portfolio",
@@ -216,7 +218,6 @@
     "leverageShort": "lev",
     "leveragedApy": "{{leverage}} Leveraged APY",
     "liqPrice": "Liq. price",
-    "liquidationThreshold": "Liquidation threshold",
     "managePosition": "Manage Position",
     "messages": {
       "noReduce": "You cannot reduce your debt",
@@ -278,7 +279,6 @@
       "slippage": "Some interactions with the Fields of Mars strategies include a swap. A transaction will fail, if the price of the of the swap asset changes unfavorably by more than this percentage."
     },
     "totalApy": "Total APY",
-    "totalBorrowed": "Total borrowed",
     "tutorial": {
       "1": {
         "title": "1. Supply Collateral",
@@ -421,6 +421,7 @@
     "depositCap": "Deposit cap.",
     "depositMarkets": "Deposits",
     "lendAndBorrowMoney": "Lend and borrow money on the Osmosis blockchain",
+    "maxLTV": "Max. LTV",
     "myBorrowBalance": "My Borrow Balance",
     "myBorrowings": "Borrowings",
     "myDeposits": "Deposits",
@@ -442,6 +443,8 @@
     "redBankTooltip": "Your max LTV is {{collateralLimit}} or {{collateralLimitValue}} UST based on your current collateral makeup. You are at {{currentPercentage}} of your liquidation threshold. If you reach 100%, you are at immediate risk of liquidation.",
     "repay": "Repay",
     "toDepositAssetOnChain": "To deposit {{asset}}, first visit an interchain dex to acquire it and transfer it to {{chain}}",
+    "totalBorrowed": "Total Borrowed",
+    "totalSupplied": "Total Supplied",
     "tutorial": {
       "1": {
         "title": "1. Deposit collateral",
