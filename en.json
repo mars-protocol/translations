@@ -183,7 +183,9 @@
   },
   "fields": {
     "actions": {
+      "deposited": "Deposited",
       "repaid": "Repaid",
+      "borrowed": "Borrowed",
       "withdrawn": "Withdrawn",
       "unlocking": "Unlocking",
       "swap": "Swap"
