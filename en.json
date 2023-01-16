@@ -250,7 +250,7 @@
     "position": "Position",
     "positionValue": "Position value",
     "positionValueShort": "Pos. value",
-    "reducedEarning": "Reduced earning",
+    "reducedEarning": "Reduced earnings",
     "removeLiquidity": "Remove liquidity from {{vault}}",
     "repayDebt": "Repay debt",
     "repayDescription": "‘Repay Debt’ lowers your Debt and increase your Net Value by the same amount. Your Position size will stay constant, your leverage will be reduced.",
