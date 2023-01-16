@@ -461,6 +461,7 @@
         "button": "Got it"
       }
     },
+    "utilizationRate": "Utilization Rate",
     "warning": {
       "depositCap": "Amount exceeds deposit cap. Max amount left: {{amount}} {{symbol}}.",
       "depositCapReached": "The deposit cap for {{symbol}} has been reached.",
