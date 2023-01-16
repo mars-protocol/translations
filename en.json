@@ -292,7 +292,7 @@
       },
       "3": {
         "title": "3. Borrow",
-        "description": "Set the exact amount you want to borrow. You can borrow up to {{leverage}}× what you supply as collateral. Beware, if you’re debt grows faster than your posititon, you will eventually get liquidated.",
+        "description": "Set the exact amount you want to borrow. You can borrow up to {{leverage}}× what you supply as collateral. Beware, if your debt grows faster than your posititon, you will eventually get liquidated.",
         "button": "Got it"
       }
     },
