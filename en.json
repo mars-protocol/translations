@@ -266,7 +266,7 @@
       },
       "step2": {
         "title": "Step 2: Set up and lock",
-        "text": "Your Osmosis LP tokens are locked up for X days in this position. That means reducing your position size will not be possible. Closing your position requires a X-day unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
+        "text": "Your Osmosis LP tokens are locked up for {{time}}-{{unit}} in this position. That means reducing your position size will not be possible. Closing your position requires a {{time}}-{{unit}} unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
         "button": "Set up my vault"
       }
     },
