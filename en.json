@@ -234,10 +234,7 @@
           "text": "{{lp}} is unlocked. It does not earn fees, but it can still be liquidated.",
           "button": "Withdraw Unlocked Position now"
         },
-        "plural": {
-          "text": "Several positions have unlocked. They stopped earning fees, but they can still be liquidated.",
-          "button": "Withdraw Unlocked Position now"
-        }
+        "plural": "Several positions have unlocked. They stopped earning fees, but they can still be liquidated."
       },
       "unlocking": {
         "single": "Currently unlocking one {{lp}} position. Time left: {{time}}",
