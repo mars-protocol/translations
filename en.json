@@ -159,7 +159,7 @@
     "fieldsEstimateFeeError": "Something went wrong while we were simulating your transaction.<br/>Please reload the page and try again. <br /> If the problem persists, please try closing your position or contacting support.",
     "importantInformation": "Important Information",
     "marsContractsCouldNotBeFound": "Mars contracts could not be found on the selected network",
-    "problemPersists": "If the problem persists, please reach out to the Discord community <1>here</>",
+    "problemPersists": "If the problem persists, please reach out to the Discord community <1>here</1>",
     "selectADifferentNetwork": "Select a different network from your wallet provider.",
     "serverOfflineTitle": "Unable to reach a server",
     "serverOfflineBody": "A server seems to be down at the moment. Please try again later.",
@@ -474,7 +474,7 @@
     },
     "welcomeToTheRedBank": "Welcome to the Red Bank",
     "withdraw": "Withdraw",
-    "youAreGettingCloserToGettingLiquidated": "You're close to getting liquidated. Deposit more to reduce risk. <1>Learn more.</1>",
+    "youAreGettingCloserToGettingLiquidated": "You're close to getting liquidated. Deposit more to reduce risk. <1>Learn more</1>",
     "youDontHaveAnyAssetsInYourWallet": "You don't have any Assets in your wallet so far.",
     "youDontHaveBorrowedOrDepositedAnyAsset": "You don't have any borrowed assets so far."
   },
