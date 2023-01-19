@@ -472,7 +472,7 @@
     },
     "welcomeToTheRedBank": "Welcome to the Red Bank",
     "withdraw": "Withdraw",
-    "youAreGettingCloserToGettingLiquidated": "You are getting closer to getting liquidated. Deposit more to reduce risk. <1>Learn more.</1>",
+    "youAreGettingCloserToGettingLiquidated": "You're close to getting liquidated. Deposit more to reduce risk. <1>Learn more.</1>",
     "youDontHaveAnyAssetsInYourWallet": "You don't have any Assets in your wallet so far.",
     "youDontHaveBorrowedOrDepositedAnyAsset": "You don't have any borrowed assets so far."
   },
