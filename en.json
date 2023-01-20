@@ -239,7 +239,8 @@
       "unlocking": {
         "single": "Currently unlocking one {{lp}} position. Time left: {{time}}",
         "plural": "Currently unlocking several positions. Check the Active Vaults to learn when you can close your position."
-      }
+      },
+      "repayOnly": "The position is currently in the unlocking process and can't be adjusted. You are able to repay debt to avoid liquidation."
     },
     "netValue": "Net value",
     "netYield": "Net yield",
