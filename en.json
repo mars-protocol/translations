@@ -243,7 +243,7 @@
       "repayOnly": "The position is currently in the unlocking process and can't be adjusted. You are able to repay debt to avoid liquidation.",
       "liquidation": {
         "single": {
-          "text": "{{lp}} is at risk of liquidation.",
+          "text": "{{lp}} is at risk of liquidation. Repay debt to avoid liquidation.",
           "button": "Repay debt"
         },
         "plural": "Multiple positions are at risk of liquidation. Repay debt to avoid liquidation."
