@@ -191,6 +191,7 @@
       "vaultCap": "Vault cap reached. Position value can not exceed {{amount}}",
       "vaultCapReached": "Vault cap reached. You cannot add to your position."
     },
+    "name": "Name",
     "notEarning": "Not earning",
     "notifications": {
       "unlocked": {
@@ -243,12 +244,26 @@
     "supply": "Supply",
     "supplyLiquidity": "Supply liquidity to {{vault}}",
     "tooltips": {
-      "activeVaults": "<strong>Pos value:</strong><br />The total value of your position in this Vault.<br /><br /><strong>Net value:</strong><br />The netto value of what you 'own' in the vault.<br /><br /><strong>Borrowed:</strong><br />The amount borrowed from the Red Bank.<br /><br /><strong>Vault cap:</strong><br />Vault capacity is the maximum value allowed in the vault. The value is expressed in the base currency.<br /><br /><strong>APY:</strong><br />The APY is calculated using rates retrieved from the Vault provider. The number shown takes the borrowing rates and leverage into account.<br /><br /><strong>Leverage:</strong><br />Your current and the max allowed leverage.<br /><br /><strong>Borrowing Capacity:</strong><br />If your borrowing capacity hits 100%, you are in danger of being liquidated.",
-      "availableVaults": "<strong>Leverage:</strong><br />Your current and the max allowed leverage.<br /><br /><strong>APY:</strong><br />The APY is calculated using rates retrieved from the Vault provider. The number shown takes the borrowing rates and leverage into account.<br /><br /><strong>Vault cap:</strong><br />Vault capacity is the maximum value allowed in the vault. The value is expressed in the base currency.",
+      "activeVaults": "Vaults where you have active positions",
+      "availableVaults": "Vaults where you do not currently have an active position",
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested.",
       "slippage": "Some interactions with the Fields of Mars strategies include a swap. A transaction will fail, if the price of the of the swap asset changes unfavorably by more than this percentage.",
       "editPosition": "Manage your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher risk of liquidation.",
-      "setupPosition": "Set up your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher risk of liquidation."
+      "setupPosition": "Set up your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher risk of liquidation.",
+      "positionValue": "The total value of your position",
+      "netValue": "The estimated value you would receive when you close your position",
+      "borrowValue": "The total value you have borrowed from the Red Bank",
+      "vaultCap": "The maximum value that can be deposited in the vault",
+      "apy": {
+        "available": "An annual projection of minimum and maximum APYs calculated using rates retrieved from the vault provider and Red Bank",
+        "active": "An annual projection calculated using rates retrieved from the vault provider and Red Bank. APYs stop accruing when you initiate the unlock process."
+      },
+      "leverage": {
+        "available": "The max allowed leverage",
+        "active": "Your current leverage and the max allowed leverage"
+      },
+      "borrowCapacity": "If your borrowing capacity hits 100%, you are in danger of being liquidated",
+      "name": "Your deposit and borrows are converted into {{asset1}} and {{asset2}}. Then they are swapped for LP tokens, which are deposited into the vault to auto-compound LP rewards. This vault requires a {{time}}-{{unit}} unlock period."
     },
     "totalApy": "Total APY",
     "tutorial": {
