@@ -244,8 +244,14 @@
     "supply": "Supply",
     "supplyLiquidity": "Supply liquidity to {{vault}}",
     "tooltips": {
-      "activeVaults": "Vaults where you have active positions",
-      "availableVaults": "Vaults where you do not currently have an active position",
+      "activeVaults": {
+        "desktop": "Vaults where you have active positions",
+        "mobile": "Vaults where you have active positions<br /><br /><strong>Pos value:</strong><br />The total value of your position<br /><br /><strong>Net:</strong><br />The estimated value you would receive when you close your position<br /><br /><strong>Debt:</strong><br />The total value you have borrowed from the Red Bank<br /><br /><strong>Leverage:</strong><br />Your current leverage<br /><br /><strong>Borrow capacity bar:</strong><br />If your borrowing capacity hits 100%, you are in danger of being liquidated"
+      },
+      "availableVaults": {
+        "desktop": "Vaults where you do not currently have an active position",
+        "mobile": "Vaults where you do not currently have an active position<br /><br /><strong>Leverage:</strong><br />The max allowed leverage<br /><br /><strong>Vault cap:</strong><br />The maximum value that can be deposited in the vault"
+      },
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested.",
       "slippage": "Some interactions with the Fields of Mars strategies include a swap. A transaction will fail, if the price of the of the swap asset changes unfavorably by more than this percentage.",
       "editPosition": "Manage your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher risk of liquidation.",
@@ -256,11 +262,11 @@
       "vaultCap": "The maximum value that can be deposited in the vault",
       "apy": {
         "available": "An annual projection of minimum and maximum APYs calculated using rates retrieved from the vault provider and Red Bank",
-        "active": "An annual projection calculated using rates retrieved from the vault provider and Red Bank. APYs stop accruing when you initiate the unlock process."
+        "active": "An annual projection calculated using rates retrieved from the vault provider and Red Bank. Yield stops accruing when you initiate the unlock process."
       },
       "leverage": {
         "available": "The max allowed leverage",
-        "active": "Your current leverage and the max allowed leverage"
+        "active": "Your current leverage and the limit"
       },
       "borrowCapacity": "If your borrowing capacity hits 100%, you are in danger of being liquidated",
       "name": "Your deposit and borrows are converted into {{asset1}} and {{asset2}}. Then they are swapped for LP tokens, which are deposited into the vault to auto-compound LP rewards. This vault requires a {{time}}-{{unit}} unlock period."
@@ -404,7 +410,7 @@
     "borrow": "Borrow",
     "borrowedAmountSymbol": "Borrowed: {{amount}} {{symbol}}",
     "borrowMarkets": "Borrowings",
-    "borrowingBarTooltip": "The borrowing capacity bar displays the total amount you can borrow ({{limit}}). Your liquidation threshold will be hit if the bar reaches 100% ({{liquidation}}).",
+    "borrowingBarTooltip": "The borrowing capacity bar displays the total amount you can borrow ({{limit}}). You are in danger of being liquidated if the bar reaches 100% ({{liquidation}}).",
     "buyAssetsFirstToBeAbleToDeposit": "Buy assets first to be able to deposit them. <1>Learn how</1>",
     "buyAssetsFirstToBeAbleToBorrow": "Buy assets first, then deposit to be able to borrow. <1>Learn how</1>",
     "close": "Close",
