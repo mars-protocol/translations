@@ -439,13 +439,14 @@
       "borrow": {
         "action": "Enter the amount you would like to borrow. You can see how this transaction will impact any existing borrowing balance in the New Borrow Balance panel.",
         "bar": "The borrowing capacity bar displays the total amount you can borrow ({{limit}}). Your liquidation threshold will be hit if the bar hits 100% ({{liquidation}}), which will result in some or all of your collateral becoming eligible to be liquidated.",
-        "header": "Borrow rates are updated every time someone deposits or withdraws a specific asset. All rates are denominated in Axelar USDC (axlUSDC). Rates are not promised by a counterparty, but are  a 365-day projection based on each asset's utilization rate, which determines the APY on a mathematical curve over the last 24 hours and can be subject to significant volatility. See Mars' Disclaimers and Disclosures for more.",
         "market": {
           "connected": "An overview of your borrowing activity on Mars. The Borrow Rate is the current estimated annual interest rate for borrowing each asset from Mars. Rates change based on market conditions.",
           "unconnected": "Deposits can be used as collateral to borrow from the Red Bank at the rates displayed. Rates change based on market conditions."
-        }
+        },
+        "rate": "Borrow rates are updated every time someone deposits or withdraws a specific asset. All rates are denominated in Axelar USDC (axlUSDC). Rates are not promised by a counterparty, but are  a 365-day projection based on each asset's utilization rate, which determines the APY on a mathematical curve over the last 24 hours and can be subject to significant volatility. See Mars' Disclaimers and Disclosures for more."
       },
       "deposit": {
+        "apy": "Deposit APYs are updated every time someone deposits or withdraws a specific asset. All rates are denominated in Axelar USDC (axlUSDC). APYs are not a rate promised by a counterparty, but are a 365-day projection based on each asset's utilization rate, which determines the APY on a mathematical curve over the last 24 hours and can be subject to significant volatility. See Mars' Disclaimers and Disclosures for more.",
         "market": {
           "action": "Enter the amount you would like to deposit. You can see how this transaction will impact any existing deposit balance in the New Deposit Balance panel.",
           "connected": "An overview of your deposit activity on Mars. APYs are estimates.",
