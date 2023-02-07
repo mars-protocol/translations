@@ -368,6 +368,7 @@
     "ongoingRewards": "Ongoing Rewards",
     "totalRewards": "Total Rewards",
     "incentiveApr": "Incentive APR",
+    "interestApy": "Interest APY",
     "successfullyClaimed": "You have successfully claimed your rewards!"
   },
   "landing": {
