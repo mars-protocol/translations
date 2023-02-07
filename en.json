@@ -443,7 +443,7 @@
           "connected": "An overview of your borrowing activity on Mars.",
           "unconnected": "Deposits can be used as collateral to borrow from the Red Bank at the rates displayed. Rates change based on market conditions."
         },
-        "rate": "Borrow rates are updated every time someone deposits or withdraws a specific asset. All rates are denominated in Axelar USDC (axlUSDC). Rates are not promised by a counterparty, but are  a 365-day projection based on each asset's utilization rate, which determines the APY on a mathematical curve over the last 24 hours and can be subject to significant volatility. See Mars' Disclaimers and Disclosures for more.",
+        "rate": "An asset's borrow rate is updated every time a user performs an action involving that specific asset. APRs are not a rate promised by a counterparty, but are a 365-day projection based on each asset's utilization rate, which determines APR on a mathematical curve over the last 24 hours.",
         "assets": "Assets available to be borrowed",
         "borrowed": "The total number of tokens you've borrowed",
         "marketLiquidity": "The total number of tokens available to be borrowed"
