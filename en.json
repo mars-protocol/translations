@@ -85,7 +85,7 @@
     "success": "success",
     "swap": "Swap",
     "tooltips": {
-      "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower end hardware."
+      "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware."
     },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
@@ -236,7 +236,7 @@
       },
       "step2": {
         "title": "Step 2: Set up and lock",
-        "text": "Your Osmosis LP tokens are locked up for {{time}}-{{unit}} in this position. That means reducing your position size will not be possible. Closing your position requires a {{time}}-{{unit}} unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
+        "text": "Reducing your position size is not possible. You can however reduce your leverage by repaying debt. Closing your position requires a {{time}}-{{unit}} unlock period after which you need to manually close your position. You will not earn fees and rewards during the unlock period.",
         "button": "Set up my vault",
         "error": "Something went wrong. Please head back and try setting up a position again."
       }
@@ -253,16 +253,16 @@
         "mobile": "Vaults where you do not currently have an active position<br /><br /><strong>Leverage:</strong><br />The max allowed leverage<br /><br /><strong>Vault cap:</strong><br />The maximum value that can be deposited in the vault"
       },
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested.",
-      "slippage": "Some interactions with the Fields of Mars strategies include a swap. A transaction will fail, if the price of the of the swap asset changes unfavorably by more than this percentage.",
-      "editPosition": "Manage your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher risk of liquidation.",
-      "setupPosition": "Set up your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher risk of liquidation.",
+      "slippage": "Some vault actions require token swaps. The transaction will fail if the price of the of the swap asset changes unfavorably by more than this percentage.",
+      "editPosition": "Manage your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher borrowing cost and risk of liquidation.",
+      "setupPosition": "Each position in the farm requires an NFT representing the position. Once it's minted you can set up and lock your LP tokens in the vault.",
       "positionValue": "The total value of your position",
       "netValue": "The estimated value you would receive when you close your position",
       "borrowValue": "The total value you have borrowed from the Red Bank",
       "vaultCap": "The vault cap limits the amount of value as denominated in Axelar USDC (axlUSDC) that can be deposited into each vault. Once the cap is reached for any vault, it’s no longer possible for anyone (including current depositors) to initiate a deposit into that vault. However, users who have already deposited into that vault can keep their assets in the vault and withdraw (subject to protocol solvency and liquidity conditions) or repay debt at will.",
       "apy": {
-        "available": "APYs are calculated whenever someone enters or exits a vault and are denominated in Axelar USDC (axlUSDC). APYs are calculated using rates provided by the vault creator and take borrowing rates into account. Remember, they are not a rate promised by a counterparty, but are a 365-day projection based on a given vault's performance over the last 24 hours and can be subject to significant volatility. See Mars' Disclaimers and Disclosures for more.",
-        "active": "APYs are calculated whenever someone enters or exits a vault and are denominated in Axelar USDC (axlUSDC). APYs are calculated using rates provided by the vault creator and take borrowing rates into account. Remember, they are not a rate promised by a counterparty, but are a 365-day projection based on a given vault's performance over the last 24 hours and can be subject to significant volatility. Yield stops accruing when you initiate the unlock process. See Mars' Disclaimers and Disclosures for more. "
+        "available": "APYs are calculated whenever someone enters or exits a vault. APYs are calculated using rates provided by the vault creator and take borrowing rates into account. Remember, they are not a rate promised by a counterparty, but are a 365-day projection based on a given vault's performance over the last 24 hours and can be subject to significant volatility. See Mars' Disclaimers and Disclosures for more.",
+        "active": "APYs are calculated whenever someone enters or exits a vault. APYs are calculated using rates provided by the vault creator and take borrowing rates into account. Remember, they are not a rate promised by a counterparty, but are a 365-day projection based on a given vault's performance over the last 24 hours and can be subject to significant volatility. Yield stops accruing when you initiate the unlock process. See Mars' Disclaimers and Disclosures for more. "
       },
       "leverage": {
         "available": "The max allowed leverage",
