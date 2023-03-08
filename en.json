@@ -184,6 +184,7 @@
     "liqPrice": "Liq. price",
     "managePosition": "Manage Position",
     "messages": {
+      "closeToMaxLtv": "You are getting close to the max LTV. Your transaction might fail.",
       "noReduce": "You cannot reduce your debt",
       "repayFromWallet": "Repay debt from wallet instead",
       "unableToIncreaseLeverage": "Not enough Red Bank liquidity to increase leverage beyond {{leverage}}x",
