@@ -444,7 +444,7 @@
           "connected": "An overview of your borrowing activity on Mars.",
           "unconnected": "Deposits can be used as collateral to borrow from the Red Bank at the rates displayed. Rates change based on market conditions."
         },
-        "rate": "An asset's borrow rate is updated every time a user performs an action involving that specific asset. APRs are not a rate promised by a counterparty, but are a 365-day projection based on each asset's utilization rate, which determines APR on a mathematical curve over the last 24 hours.",
+        "rate": "An asset's borrow rate is the cost a user must pay to borrow a given asset. It is updated every time a user performs an action involving that specific asset. Rates are a 365-day projection based on each asset's utilization rate over the past 24 hours and are determined by a mathematical curve.",
         "assets": "Assets available to be borrowed",
         "borrowed": "The total number of tokens you've borrowed",
         "marketLiquidity": "The total number of tokens available to be borrowed"
@@ -458,7 +458,8 @@
         },
         "caps": "The deposit cap limits the amount of each asset that can be deposited into the Red Bank and is denominated in the asset to be deposited. Once the cap is reached for any asset, it’s no longer possible for anyone (including current depositors) to initiate a deposit for that asset. However, users who have already deposited that asset can keep their assets in the Red Bank and withdraw at will (subject to protocol solvency and liquidity conditions).",
         "assets": "Assets available to be deposited",
-        "deposited": "The total number of tokens you've deposited"
+        "deposited": "The total number of tokens you've deposited",
+        "notBorrowAble": "This asset can't be borrowed and only deposited to be used as collateral. Thus it does not have a borrow interest rate."
       },
       "portfolio": "You can borrow up to the white line in the Borrowing Capacity bar graph. If you fill the entire Borrowing Capacity bar, you’re in danger of liquidation.",
       "repay": {
