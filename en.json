@@ -460,7 +460,7 @@
         "caps": "The deposit cap limits the amount of each asset that can be deposited into the Red Bank and is denominated in the asset to be deposited. Once the cap is reached for any asset, it’s no longer possible for anyone (including current depositors) to initiate a deposit for that asset. However, users who have already deposited that asset can keep their assets in the Red Bank and withdraw at will (subject to protocol solvency and liquidity conditions).",
         "assets": "Assets available to be deposited",
         "deposited": "The total number of tokens you've deposited",
-        "notBorrowAble": "This asset can't be borrowed and only deposited to be used as collateral. Thus it does not have a borrow interest rate."
+        "notBorrowable": "This asset can't be borrowed and only deposited to be used as collateral. Thus it does not have a borrow interest rate."
       },
       "portfolio": "You can borrow up to the white line in the Borrowing Capacity bar graph. If you fill the entire Borrowing Capacity bar, you’re in danger of liquidation.",
       "repay": {
