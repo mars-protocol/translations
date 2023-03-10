@@ -304,6 +304,7 @@
     "vaultApy": "Vault APY",
     "vaultCap": "Vault cap.",
     "vaultDescription": "Up to {{maxLeverage}}x leveraged yield farming with auto compounding of the {{lpName}} LP tokens.",
+    "vaultName": "{{name}} ({{unlockDuration}} {{unlockTimeframe}})",
     "xDayLockup": "{{time}} lockup"
   },
   "global": {
