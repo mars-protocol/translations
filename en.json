@@ -300,10 +300,10 @@
     "unlockBtn": "Unlock ({{time}}{{unit}})",
     "unlocksAt": "Unlocks at",
     "unlocking": "Unlocking",
-
     "unrealizedPnl": "Unrealized PNL",
     "vaultApy": "Vault APY",
     "vaultCap": "Vault cap.",
+    "vaultDescription": "Up to {{maxLeverage}}x leveraged yield farming with auto compounding of the {{lpName}} LP tokens.",
     "xDayLockup": "{{time}} lockup"
   },
   "global": {
