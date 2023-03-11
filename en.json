@@ -87,7 +87,7 @@
     "swap": "Swap",
     "tooltips": {
       "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware.",
-      "displayCurrency": "Sets the denomination of values to a different currency. While {{baseCurrencySymbol}} is the currency the TWAP oracles return. All other values are fetched from liquidity pools, except {{USDsymbol}} which fetches the {{baseCurrencySymbol}}/{{USDsymbol}} rate from Coingecko."
+      "displayCurrency": "Sets the denomination of values to a different currency. While {{baseCurrencySymbol}} is the currency the TWAP oracles return. All other values are fetched from liquidity pools, except {{USDsymbol}} which fetches the {{baseCurrencySymbol}}/{{USDname}} rate from Coingecko."
     },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
