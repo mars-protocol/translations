@@ -87,7 +87,7 @@
     "swap": "Swap",
     "tooltips": {
       "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware.",
-      "displayCurrency": "Sets the denomination of values to a different currency. While OSMO is the currency the TWAP Oracles return, all other values are fetched from osmosis.zone pools."
+      "displayCurrency": "Sets the denomination of values to a different currency. While {{baseCurrencySymbol}} is the currency the TWAP oracles return, all other values are fetched from liquidity pools."
     },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
