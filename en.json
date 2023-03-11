@@ -33,6 +33,7 @@
     "depositedAmountSymbol": "Deposited: {{amount}} {{symbol}}",
     "dialogHeaderTooltip": "This window displays the status of your transaction.",
     "disclaimers": "Disclaimers",
+    "displayCurrency": "Display Currency",
     "disconnect": "Disconnect",
     "description": "Description",
     "errorEncountered": "Error encountered",
@@ -85,7 +86,8 @@
     "success": "success",
     "swap": "Swap",
     "tooltips": {
-      "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware."
+      "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware.",
+      "displayCurrency": "Sets the denomination of values to a different currency. While OSMO is the currency the TWAP Oracles return, all other values are fetched from osmosis.zone pools."
     },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
