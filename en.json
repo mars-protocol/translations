@@ -164,6 +164,7 @@
     "breakdown": "Breakdown",
     "creditLine": "Credit line",
     "current": "Current",
+    "debtValue": "Debt value",
     "disclaimers": {
       "dontShowAgain": "Don't show this again",
       "lockup": {
