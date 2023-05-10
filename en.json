@@ -257,7 +257,7 @@
         "mobile": "Vaults where you do not currently have an active position<br /><br /><strong>Leverage:</strong><br />The max allowed leverage<br /><br /><strong>Vault cap:</strong><br />The maximum value that can be deposited in the vault"
       },
       "portfolioOverview": "An overview of your activity on the Fields of Mars. “Unrealized PNL” stands for Unrealized Profit and Loss, meaning these are gains or losses that you have not yet realized or harvested.",
-      "slippage": "Some vault actions require token swaps. The transaction will fail if the price of the of the swap asset changes unfavorably by more than this percentage.",
+      "slippage": "Some vault actions require token swaps. The transaction will fail if the price of the swap asset changes unfavorably by more than this percentage.",
       "editPosition": "Manage your position to ensure your borrowing capacity remains below the liquidation threshold. Higher leverage translates to higher yield APY, but also a higher borrowing cost and risk of liquidation.",
       "setupPosition": "Each position in the farm requires an NFT representing the position. Once it's minted you can set up and lock your LP tokens in the vault.",
       "positionValue": "The total value of your position",
