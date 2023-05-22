@@ -51,6 +51,7 @@
     "lowUstAmountAfterTransaction": "You'll have no gas money for future transactions if you execute this transaction",
     "lpValue": "LP Value",
     "ltv": "LTV",
+    "mainnet": "Mainnet",
     "maxLimitAmountSymbol": "Max Limit: {{amount}} {{symbol}}",
     "marketLiquidity": "Market Liquidity",
     "marketLiquidityShort": "Market Liq.",
@@ -72,6 +73,7 @@
     "refresh": "Refresh",
     "repay": "Repay",
     "secondary": "Secondary",
+    "selectChain": "Select a chain",
     "settings": "Global Settings",
     "setup": "Set up",
     "signMessage": "Sign Message",
@@ -85,6 +87,7 @@
     "succeeded": "Succeeded",
     "success": "success",
     "swap": "Swap",
+    "testnet": "Testnet",
     "tooltips": {
       "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware.",
       "displayCurrency": "This function allows you to switch the base asset denomination from US Dollars ($) to other options within the application. The pricing for any chosen denomination is determined by using the Osmosis TWAP Oracle for OSMO and the new base token pair.<br/>For instance, if you select ATOM as the new denomination, the price of the asset will be calculated using the OSMO/ATOM TWAP price. So, if the asset is MARS, its price in ATOM will be MARS/OSMO multiplied by OSMO/ATOM.<br/>Alternatively, if you choose to keep the denomination in US Dollars ($), the pricing will be determined by retrieving the OSMO/USD rate from Coingecko."
