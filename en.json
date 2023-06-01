@@ -32,6 +32,7 @@
     "deposited": "Deposited",
     "depositedAmountSymbol": "Deposited: {{amount}} {{symbol}}",
     "dialogHeaderTooltip": "This window displays the status of your transaction.",
+    "disclaimer": "Disclaimer",
     "disclaimers": "Disclaimers",
     "displayCurrency": "Display Currency",
     "disconnect": "Disconnect",
@@ -92,6 +93,11 @@
     "succeeded": "Succeeded",
     "success": "success",
     "swap": "Swap",
+    "termsOfService": {
+      "intro": "<0>Please check the boxes below to confirm your agreement to the </0><1>Mars Protocol Terms and Conditions</1>",
+      "term1": "I have read and understood, and do hereby agree to be legally bound as a ‘User’ under, the Terms, including all future amendments thereto. Such agreement is irrevocable and will apply to all of my uses of the Site without me providing confirmation in each specific instance.",
+      "term2": "I acknowledge and agree that the Site solely provides information about data on the applicable blockchains. I accept that the Site operators have no custody over my funds, ability or duty to transact on my behalf or power to reverse my transactions. The Site operators do not endorse or provide any warranty with respect to any tokens."
+    },
     "testnet": "Testnet",
     "tooltips": {
       "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware.",
