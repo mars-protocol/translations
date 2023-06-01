@@ -55,6 +55,11 @@
     "maxLimitAmountSymbol": "Max Limit: {{amount}} {{symbol}}",
     "marketLiquidity": "Market Liquidity",
     "marketLiquidityShort": "Market Liq.",
+    "migration": {
+      "title": "One moment please...",
+      "headline": "We're migrating the oracle",
+      "info": "Please wait until the process is done or come back later."
+    },
     "net": "Net",
     "newBorrowBalance": "New Borrow Balance",
     "newDepositBalance": "New Deposit Balance",
