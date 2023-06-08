@@ -448,8 +448,8 @@
     "noFundsForRepay": "You do not have any {{symbol}} in your wallet to repay the debt.",
     "notBorrowedYet": "Not borrowed yet",
     "notEnoughMarketLiquidity": "Not enough market liquidity.",
+    "noPriceAvailable": "There is no price available for {{symbol}}. Therefore depositing and borrowing are disabled temporarily.",
     "readMoreAboutMarsOrLearnHowToUseTheRedBank": "<0>Read more about MARS</0> or <2>learn how to use the RED BANK.</2>",
-
     "redBankRewards": "Red Bank Rewards",
     "repay": "Repay",
     "toDepositAssetOnChain": "To deposit {{asset}}, buy some on an exchange and transfer it to {{chain}}.",
