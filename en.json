@@ -56,6 +56,11 @@
     "maxLimitAmountSymbol": "Max Limit: {{amount}} {{symbol}}",
     "marketLiquidity": "Market Liquidity",
     "marketLiquidityShort": "Market Liq.",
+    "migration": {
+      "title": "One moment please...",
+      "headline": "We're migrating the oracle",
+      "info": "Please wait until the process is done or come back later."
+    },
     "net": "Net",
     "newBorrowBalance": "New Borrow Balance",
     "newDepositBalance": "New Deposit Balance",
@@ -96,7 +101,7 @@
     "testnet": "Testnet",
     "tooltips": {
       "reduceMotion": "Turns off all animations inside the dApp. Turning animations off can increase the overall performance on lower-end hardware.",
-      "displayCurrency": "This function allows you to switch the base asset denomination from US Dollars ($) to other options within the application. The pricing for any chosen denomination is determined by using the Osmosis TWAP Oracle for OSMO and the new base token pair.<br/>For instance, if you select ATOM as the new denomination, the price of the asset will be calculated using the OSMO/ATOM TWAP price. So, if the asset is MARS, its price in ATOM will be MARS/OSMO multiplied by OSMO/ATOM.<br/>Alternatively, if you choose to keep the denomination in US Dollars ($), the pricing will be determined by retrieving the OSMO/USD rate from Coingecko."
+      "displayCurrency": "This function allows you to switch the base asset denomination from US Dollars ($) to other options within the application. The pricing for any chosen denomination is determined by using the tokens TWAP Oracle for it and the new base token pair.<br/>For instance, if you select ATOM as the new denomination, the price of the asset will be calculated using the OSMO/ATOM TWAP price. So, if the asset is MARS, its price in ATOM will be MARS/OSMO multiplied by OSMO/ATOM.<br/>Alternatively, if you choose to keep the denomination in US Dollars ($), the pricing will be determined by retrieving the OSMO/USD rate from Coingecko."
     },
     "testnetAddress": "Testnet address",
     "theMarkets": "The Markets",
@@ -117,7 +122,7 @@
     "waitingForReceipt": "Waiting for receipt...",
     "wallet": "Your Wallet",
     "yourAddress": "Your address",
-    "youveArrivedOnMars": "You've arrived on Mars, the money market of the Osmosis blockchain."
+    "youveArrivedOnMars": "You've arrived on Mars, the money market of the Osmosis and Neutron blockchain."
   },
   "error": {
     "errorEstimatedFee": "Oops... something bad happened.",
@@ -412,7 +417,7 @@
     "mission51": "5.1 Decode the Mars token",
     "mission52": "5.2 Learn More About Mars’ Governance",
     "missions": "Missions",
-    "onMarsThereAreNoLimits": "DeFi has begun its quest to render CeFi obsolete, and Mars will serve as the gateway through which users interact with this new financial system.<br /><br />Built atop its own Cosmos blockchain called Mars Hub, Mars outposts can be deployed on other chains including Osmosis. Wherever the outpost, Mars aims to offer a full-stack DeFi product experience that looks and feels like CeFi while preserving the benefits of decentralization: non-custodial, transparent, trustless, resilient.",
+    "onMarsThereAreNoLimits": "DeFi has begun its quest to render CeFi obsolete, and Mars will serve as the gateway through which users interact with this new financial system.<br /><br />Built atop its own Cosmos blockchain called Mars Hub, Mars outposts can be deployed on other chains including Osmosis and Neutron. Wherever the outpost, Mars aims to offer a full-stack DeFi product experience that looks and feels like CeFi while preserving the benefits of decentralization: non-custodial, transparent, trustless, resilient.",
     "theRedBankIsTheLifeblood": "The Red Bank is the lifeblood of Mars. <strong>An autonomous (smart-contract-based) lending protocol</strong>, it can run on computer code 24/7.<br /><br />It has the potential to accept any form of digital value for deposits and loans, from cryptos to LP tokens and beyond.",
     "ticketToMars": "Ticket to <strong>mars</strong>",
     "toGetAroundMars": "To get around Mars, you’ll need the right gear: namely a wallet that supports <1></1> and other tokens issued in the Cosmos ecosystem like <3></3>.<br /><br />Outfit yourself for action on Mars with the links below:",
@@ -433,7 +438,7 @@
     "deposit": "Deposit",
     "depositCap": "Deposit cap.",
     "depositMarkets": "Deposits",
-    "lendAndBorrowMoney": "Lend and borrow money on the Osmosis blockchain",
+    "lendAndBorrowMoney": "Lend and borrow money on the Osmosis or Neutron blockchain",
     "maxLTV": "Max. LTV",
     "myBorrowBalance": "My Borrow Balance",
     "myBorrowings": "Borrowings",
@@ -443,8 +448,8 @@
     "noFundsForRepay": "You do not have any {{symbol}} in your wallet to repay the debt.",
     "notBorrowedYet": "Not borrowed yet",
     "notEnoughMarketLiquidity": "Not enough market liquidity.",
+    "noPriceAvailable": "There is no price available for {{symbol}}. Therefore depositing and borrowing are disabled temporarily.",
     "readMoreAboutMarsOrLearnHowToUseTheRedBank": "<0>Read more about MARS</0> or <2>learn how to use the RED BANK.</2>",
-
     "redBankRewards": "Red Bank Rewards",
     "repay": "Repay",
     "toDepositAssetOnChain": "To deposit {{asset}}, buy some on an exchange and transfer it to {{chain}}.",
